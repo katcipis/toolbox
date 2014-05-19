@@ -10,6 +10,12 @@ Actually it has more than development tools, it is more like a lot of interestin
 
 * [CoreOS](https://coreos.com/)
 
+## Mobile
+
+* [Flurry Analytics](http://www.flurry.com/solutions/analytics)
+* [Phone Gap](http://phonegap.com/)
+* [XDK](http://xdk-software.intel.com/)
+
 
 ## Continuous Integration / Deployment
 
