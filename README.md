@@ -19,6 +19,12 @@ Actually it has more than development tools, it is more like a lot of interestin
 * [OProfile](http://oprofile.sourceforge.net/about/)
 
 
+### Web services
+
+* [Gatling](http://gatling-tool.org/)
+* [httperf](http://www.hpl.hp.com/research/linux/httperf/)
+
+
 ### C/C++
 
 * [gperf](https://code.google.com/p/gperftools/)
@@ -65,6 +71,8 @@ Actually it has more than development tools, it is more like a lot of interestin
 ## Project Mangement
 
 * [Mingle](http://getmingle.io/mingle.html)
+* [Pivotal](http://www.pivotaltracker.com/)
+* [Redmine](http://www.redmine.org/)
 
 
 ## VOIP
