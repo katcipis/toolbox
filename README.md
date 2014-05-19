@@ -11,6 +11,12 @@ Actually it has more than development tools, it is more like a lot of interestin
 * [CoreOS](https://coreos.com/)
 
 
+## Continuous Integration / Deployment
+
+* [snap](https://snap-ci.com/)
+* [Strider CD](http://stridercd.com/)
+
+
 ## Profiling
 
 * [DTrace](http://dtrace.org/blogs/)
