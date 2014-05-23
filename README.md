@@ -10,6 +10,7 @@ Actually it has more than development tools, it is more like a lot of interestin
 
 * [CoreOS](https://coreos.com/)
 
+
 ## Mobile
 
 * [Flurry Analytics](http://www.flurry.com/solutions/analytics)
@@ -21,6 +22,9 @@ Actually it has more than development tools, it is more like a lot of interestin
 
 * [snap](https://snap-ci.com/)
 * [Strider CD](http://stridercd.com/)
+* [Jenkins](http://jenkins-ci.org/)
+* [Go](http://www.go.cd/)
+* [Travis](https://travis-ci.org/)
 
 
 ## Profiling
@@ -35,6 +39,7 @@ Actually it has more than development tools, it is more like a lot of interestin
 
 * [Gatling](http://gatling-tool.org/)
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
+* [ab](http://httpd.apache.org/docs/2.2/programs/ab.html)
 
 
 ### C/C++
@@ -98,9 +103,10 @@ Actually it has more than development tools, it is more like a lot of interestin
 * [Monit](https://mmonit.com/monit/)
 
 
-## Isolated Environments
+## Isolated/Virtualized Environments
 
 * [Docker](https://www.docker.io/)
+* [Vagrant](http://www.vagrantup.com/)
 
 
 ## HTML5
@@ -111,3 +117,21 @@ Actually it has more than development tools, it is more like a lot of interestin
 ## Disk Recovery
 
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk)
+
+
+Development courses 
+=================
+
+* [Coursera](https://www.coursera.org/)
+* [Edx](https://www.edx.org/)
+* [IBM Big Data University](http://bigdatauniversity.com/)
+* [MIT](http://ocw.mit.edu/index.htm)
+* [Khan](https://www.khanacademy.org/)
+
+
+Development blogs 
+=================
+
+* [8th Light](http://blog.8thlight.com/)
+* [James Greening](http://www.renaissancesoftware.net/blog/)
+* [Thoughtworks](http://www.thoughtworks.com/insights)
