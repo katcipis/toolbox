@@ -1,4 +1,4 @@
-Development Tools
+Tools
 =================
 
 Just a list of development tools that i find useful but cant use all the time (I'm really bad at remembering names :-).
@@ -119,7 +119,15 @@ Actually it has more than development tools, it is more like a lot of interestin
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk)
 
 
-Development courses 
+Conferences 
+=================
+
+* [GStreamer](http://gstconf.ubicast.tv/)
+* [ELCE](http://events.linuxfoundation.org/events/embedded-linux-conference-europe)
+* [ESC](http://www.escbrazil.com.br)
+
+
+Courses 
 =================
 
 * [Coursera](https://www.coursera.org/)
@@ -129,9 +137,10 @@ Development courses
 * [Khan](https://www.khanacademy.org/)
 
 
-Development blogs 
+Blogs 
 =================
 
+* [Free electrons](http://free-electrons.com/blog/)
 * [8th Light](http://blog.8thlight.com/)
 * [James Greening](http://www.renaissancesoftware.net/blog/)
 * [Thoughtworks](http://www.thoughtworks.com/insights)
