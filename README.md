@@ -137,6 +137,15 @@ Courses
 * [Khan](https://www.khanacademy.org/)
 
 
+Podcasts
+=================
+
+* [FLOSS](http://twit.tv/show/floss-weekly)
+* [Grok](http://www.grokpodcast.com/)
+* [SE Radio](http://www.se-radio.net/)
+* [Elegant Code](http://elegantcode.com/)
+
+
 Blogs 
 =================
 
