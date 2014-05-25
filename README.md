@@ -61,6 +61,7 @@ Actually it has more than development tools, it is more like a lot of interestin
 
 ## Data Processing
 
+* [Hadoop](http://hadoop.apache.org/)
 * [Spark](http://spark.apache.org/)
 
 
