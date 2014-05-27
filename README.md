@@ -112,7 +112,14 @@ Actually it has more than development tools, it is more like a lot of interestin
 
 ## HTML5
 
+### WebGL
+
 * [Goo](http://www.goocreate.com/)
+
+### Web Audio
+
+* [Wavesurfer](http://www.wavesurfer.fm/)
+* [Peaks.js](https://github.com/bbcrd/peaks.js)
 
 
 ## Disk Recovery
@@ -120,16 +127,14 @@ Actually it has more than development tools, it is more like a lot of interestin
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk)
 
 
-Conferences 
-=================
+#Conferences 
 
 * [GStreamer](http://gstconf.ubicast.tv/)
 * [ELCE](http://events.linuxfoundation.org/events/embedded-linux-conference-europe)
 * [ESC](http://www.escbrazil.com.br)
 
 
-Courses 
-=================
+#Courses 
 
 * [Coursera](https://www.coursera.org/)
 * [Edx](https://www.edx.org/)
@@ -138,8 +143,7 @@ Courses
 * [Khan](https://www.khanacademy.org/)
 
 
-Podcasts
-=================
+#Podcasts
 
 * [FLOSS](http://twit.tv/show/floss-weekly)
 * [Grok](http://www.grokpodcast.com/)
@@ -147,8 +151,7 @@ Podcasts
 * [Elegant Code](http://elegantcode.com/)
 
 
-Blogs 
-=================
+#Blogs 
 
 * [Free electrons](http://free-electrons.com/blog/)
 * [8th Light](http://blog.8thlight.com/)
