@@ -96,6 +96,7 @@ Actually it has more than development tools, it is more like a lot of interestin
 ## VOIP
 
 * [PESQ](http://www.pesq.org/)
+* [sipp](http://sipp.sourceforge.net/)
 
 
 ## Monitoring
@@ -108,6 +109,14 @@ Actually it has more than development tools, it is more like a lot of interestin
 
 * [Docker](https://www.docker.io/)
 * [Vagrant](http://www.vagrantup.com/)
+
+
+### Provisioning
+
+* [Salt](http://www.saltstack.com/)
+* [Puppet](http://puppetlabs.com/)
+* [Ansible](http://www.ansible.com/home)
+* [Chef](http://www.getchef.com/chef/)
 
 
 ## HTML5
