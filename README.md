@@ -151,6 +151,7 @@ Actually it has more than development tools, it is more like a lot of interestin
 * [IBM Big Data University](http://bigdatauniversity.com/)
 * [MIT](http://ocw.mit.edu/index.htm)
 * [Khan](https://www.khanacademy.org/)
+* [The Pragmatic Studio](http://pragmaticstudio.com/)
 
 
 #Podcasts
