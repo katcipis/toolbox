@@ -168,5 +168,6 @@ Actually it has more than development tools, it is more like a lot of interestin
 * [Netflix](http://techblog.netflix.com/)
 * [Free electrons](http://free-electrons.com/blog/)
 * [8th Light](http://blog.8thlight.com/)
+* [Clean coder](http://blog.cleancoder.com/)
 * [James Greening](http://www.renaissancesoftware.net/blog/)
 * [Thoughtworks](http://www.thoughtworks.com/insights)
