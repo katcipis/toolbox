@@ -123,14 +123,7 @@ Actually it has more than development tools, it is more like a lot of interestin
 
 ## HTML5
 
-### WebGL
-
 * [Goo](http://www.goocreate.com/)
-
-### Web Audio
-
-* [Wavesurfer](http://www.wavesurfer.fm/)
-* [Peaks.js](https://github.com/bbcrd/peaks.js)
 
 
 ## Disk Recovery
