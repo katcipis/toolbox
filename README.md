@@ -1,10 +1,4 @@
-Tools
-=================
-
-Just a list of development tools that i find useful but cant use all the time (I'm really bad at remembering names :-).
-
-Actually it has more than development tools, it is more like a lot of interesting projects related to software development :-).
-
+#Tools
 
 ## Operational Systems
 
@@ -16,6 +10,18 @@ Actually it has more than development tools, it is more like a lot of interestin
 * [Flurry Analytics](http://www.flurry.com/solutions/analytics)
 * [Phone Gap](http://phonegap.com/)
 * [XDK](http://xdk-software.intel.com/)
+
+
+## Test Management
+
+* [Testopia](https://developer.mozilla.org/en-US/docs/Mozilla/Bugzilla/Testopia)
+* [GTA](https://code.google.com/p/test-analytics/)
+
+
+## Code Review
+
+* [Gerrit](https://code.google.com/p/gerrit/)
+* [Review Board](http://www.reviewboard.org/)
 
 
 ## Continuous Integration / Deployment
@@ -33,6 +39,7 @@ Actually it has more than development tools, it is more like a lot of interestin
 * [System tap](https://sourceware.org/systemtap/)
 * [htop](http://hisham.hm/htop/)
 * [OProfile](http://oprofile.sourceforge.net/about/)
+* [KCacheGrind](http://kcachegrind.sourceforge.net/html/Home.html)
 
 
 ### Web services
@@ -79,6 +86,8 @@ Actually it has more than development tools, it is more like a lot of interestin
 ## Messaging systems
 
 * [Kafka](http://kafka.apache.org/)
+* [RabbitMQ](http://www.rabbitmq.com/)
+* [0MQ](http://zeromq.org/)
 
 
 ## Graphing
@@ -132,6 +141,12 @@ Actually it has more than development tools, it is more like a lot of interestin
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk)
 
 
+#Books and Tutorials
+
+* [Autotools Mythbuster](https://www.flameeyes.eu/autotools-mythbuster/)
+* [Autobook](https://www.sourceware.org/autobook/autobook/autobook.html)
+
+
 #Conferences 
 
 * [GStreamer](http://gstconf.ubicast.tv/)
@@ -156,6 +171,7 @@ Actually it has more than development tools, it is more like a lot of interestin
 * [Grok](http://www.grokpodcast.com/)
 * [SE Radio](http://www.se-radio.net/)
 * [Elegant Code](http://elegantcode.com/)
+* [Free Electrons](http://free-electrons.com/docs/)
 
 
 #Blogs 
