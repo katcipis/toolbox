@@ -12,7 +12,7 @@
 * [XDK](http://xdk-software.intel.com/)
 
 
-## Test Management
+## Test Management/Planning
 
 * [Testopia](https://developer.mozilla.org/en-US/docs/Mozilla/Bugzilla/Testopia)
 * [GTA](https://code.google.com/p/test-analytics/)
@@ -93,6 +93,7 @@
 ## Graphing
 
 * [RRDtool](http://oss.oetiker.ch/rrdtool/)
+* [Graphite](http://graphite.wikidot.com/)
 
 
 ## Project Mangement
@@ -113,6 +114,8 @@
 
 * [Zabbix](http://www.zabbix.com/)
 * [Monit](https://mmonit.com/monit/)
+* [Munin](http://munin-monitoring.org/)
+* [collectd](https://collectd.org/)
 
 
 ## Documentation
@@ -120,19 +123,10 @@
 * [Read the docs](https://readthedocs.org/)
 
 
-## Isolated/Virtualized Environments
+## Isolated Environments
 
 * [Docker](https://www.docker.io/)
-* [Vagrant](http://www.vagrantup.com/)
 * [Linux Containers](https://linuxcontainers.org/)
-
-
-### Provisioning
-
-* [Salt](http://www.saltstack.com/)
-* [Puppet](http://puppetlabs.com/)
-* [Ansible](http://www.ansible.com/home)
-* [Chef](http://www.getchef.com/chef/)
 
 
 ## Web Applications
