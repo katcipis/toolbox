@@ -183,3 +183,4 @@
 * [Clean coder](http://blog.cleancoder.com/)
 * [James Greening](http://www.renaissancesoftware.net/blog/)
 * [Thoughtworks](http://www.thoughtworks.com/insights)
+* [Sergio Prado](http://sergioprado.org/)
