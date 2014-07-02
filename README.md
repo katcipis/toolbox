@@ -136,6 +136,15 @@
 * [Goo](http://www.goocreate.com/)
 
 
+### Authentication
+
+* [Kerberos](http://web.mit.edu/kerberos/)
+* [Central Authentication Service](https://wiki.jasig.org/display/CAS/Home)
+* [Zuul](https://github.com/Netflix/zuul)
+* [OpenID](http://openid.net/)
+* [OAuth](http://oauth.net/)
+
+
 ### Scaffolding
 
 * [Yeoman](http://yeoman.io/)
