@@ -136,7 +136,7 @@
 * [Goo](http://www.goocreate.com/)
 
 
-### Authentication
+### Identification / Authorization
 
 * [Kerberos](http://web.mit.edu/kerberos/)
 * [Central Authentication Service](https://wiki.jasig.org/display/CAS/Home)
