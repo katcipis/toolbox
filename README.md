@@ -124,6 +124,11 @@
 * [Read the docs](https://readthedocs.org/)
 
 
+## Deploy
+
+* [Packer](http://www.packer.io/)
+
+
 ## Isolated Environments
 
 * [Docker](https://www.docker.io/)
@@ -136,7 +141,7 @@
 * [Goo](http://www.goocreate.com/)
 
 
-### Identification / Authorization
+### Security
 
 * [Kerberos](http://web.mit.edu/kerberos/)
 * [Central Authentication Service](https://wiki.jasig.org/display/CAS/Home)
