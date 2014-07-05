@@ -122,6 +122,13 @@
 ## Documentation
 
 * [Read the docs](https://readthedocs.org/)
+* [Github pages](https://pages.github.com/)
+
+
+### Blogging
+
+* [Octopress](http://octopress.org/)
+* [Jekill](http://jekyllrb.com/)
 
 
 ## Deploy
