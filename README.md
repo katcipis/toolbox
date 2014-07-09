@@ -165,6 +165,12 @@
 * [Yeoman](http://yeoman.io/)
 
 
+## Drawing diagrams
+
+* [Inkscape](http://inkscape.org/en/)
+* [Dia](https://wiki.gnome.org/Apps/Dia/)
+
+
 ## GUI prototyping
 
 * [Pencil](http://pencil.evolus.vn/Default.html)
