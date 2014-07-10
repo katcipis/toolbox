@@ -34,6 +34,18 @@
 * [Buildbot](http://buildbot.net/)
 
 
+##Static Analysis
+
+* [Simian](http://www.harukizaemon.com/simian/)
+* [PMD](http://pmd.sourceforge.net/)
+* [CCFinderX](http://www.ccfinder.net/ccfinderxos.html)
+* [Clone Digger](http://www.ccfinder.net/ccfinderxos.html)
+* [SonarQube](http://www.sonarqube.org/)
+* [cppcheck](http://cppcheck.sourceforge.net)
+* [splint](http://splint.org/)
+* [oclint](http://oclint.org/)
+
+
 ## Profiling
 
 * [DTrace](http://dtrace.org/blogs/)
