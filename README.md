@@ -44,6 +44,7 @@
 * [cppcheck](http://cppcheck.sourceforge.net)
 * [splint](http://splint.org/)
 * [oclint](http://oclint.org/)
+* [cccc](http://cccc.sourceforge.net/)
 
 
 ## Profiling
