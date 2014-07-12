@@ -110,6 +110,11 @@
 * [Graphite](http://graphite.wikidot.com/)
 
 
+## Templating
+
+* [Jinja](http://jinja.pocoo.org/)
+
+
 ## Project Mangement
 
 * [Mingle](http://getmingle.io/mingle.html)
