@@ -241,3 +241,4 @@
 * [James Greening](http://www.renaissancesoftware.net/blog/)
 * [Thoughtworks](http://www.thoughtworks.com/insights)
 * [Sergio Prado](http://sergioprado.org/)
+* [Efetividade](http://efetividade.net/)
