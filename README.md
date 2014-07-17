@@ -221,6 +221,7 @@
 * [Khan](https://www.khanacademy.org/)
 * [The Pragmatic Studio](http://pragmaticstudio.com/)
 * [Lynda](http://www.lynda.com/)
+* [Harvard CS50](https://manual.cs50.net/seminars/)
 
 
 #Podcasts
