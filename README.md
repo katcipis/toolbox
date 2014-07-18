@@ -202,8 +202,11 @@
 
 #Books and Tutorials
 
+## Autotools
+
 * [Autotools Mythbuster](https://www.flameeyes.eu/autotools-mythbuster/)
 * [Autobook](https://www.sourceware.org/autobook/autobook/autobook.html)
+* [Autotools presentation](https://www.lrde.epita.fr/~adl/dl/autotools.pdf)
 
 
 #Conferences 
