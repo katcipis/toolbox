@@ -10,12 +10,21 @@
 * [Flurry Analytics](http://www.flurry.com/solutions/analytics)
 * [Phone Gap](http://phonegap.com/)
 * [XDK](http://xdk-software.intel.com/)
+* [GenyMotion](http://www.genymotion.com/)
+* [Appium](http://appium.io/)
 
 
-## Test Management/Planning
+## Testing
+
+### Management/Planning
 
 * [Testopia](https://developer.mozilla.org/en-US/docs/Mozilla/Bugzilla/Testopia)
 * [GTA](https://code.google.com/p/test-analytics/)
+
+
+### Mocking
+
+* [Mountebank](http://www.mbtest.org/)
 
 
 ## Code Review
@@ -26,12 +35,17 @@
 
 ## Continuous Integration / Deployment
 
-* [snap](https://snap-ci.com/)
+* [Snap](https://snap-ci.com/)
 * [Strider CD](http://stridercd.com/)
 * [Jenkins](http://jenkins-ci.org/)
 * [Go](http://www.go.cd/)
 * [Travis](https://travis-ci.org/)
 * [Buildbot](http://buildbot.net/)
+
+
+### Coverage + CI
+
+* [Coveralls](https://coveralls.io/)
 
 
 ##Static Analysis
@@ -170,6 +184,12 @@
 * [Meteor](https://www.meteor.com/)
 
 
+### REST
+
+* [Pacto](https://github.com/thoughtworks/pacto)
+* [Swagger](https://helloreverb.com/developers/swagger)
+
+
 ### Security
 
 * [Kerberos](http://web.mit.edu/kerberos/)
@@ -184,10 +204,14 @@
 * [Yeoman](http://yeoman.io/)
 
 
-## Drawing diagrams
+## Automation
+
+* [The foreman](http://theforeman.org/)
+
+
+## Drawing 
 
 * [Inkscape](http://inkscape.org/en/)
-* [Dia](https://wiki.gnome.org/Apps/Dia/)
 
 
 ## GUI prototyping
