@@ -48,7 +48,7 @@
 * [Coveralls](https://coveralls.io/)
 
 
-##Static Analysis
+## Code Static Analysis
 
 * [Simian](http://www.harukizaemon.com/simian/)
 * [PMD](http://pmd.sourceforge.net/)
@@ -98,6 +98,11 @@
 
 * [Hadoop](http://hadoop.apache.org/)
 * [Spark](http://spark.apache.org/)
+
+
+### Text searching
+
+* [Solr](http://lucene.apache.org/solr/)
 
 
 ### Streaming
@@ -271,3 +276,4 @@
 * [Thoughtworks](http://www.thoughtworks.com/insights)
 * [Sergio Prado](http://sergioprado.org/)
 * [Efetividade](http://efetividade.net/)
+* [Spotify](http://labs.spotify.com/)
