@@ -127,6 +127,7 @@
 
 * [RRDtool](http://oss.oetiker.ch/rrdtool/)
 * [Graphite](http://graphite.wikidot.com/)
+* [Grafana](http://grafana.org/)
 
 
 ## Templating
@@ -155,6 +156,7 @@
 * [Monit](https://mmonit.com/monit/)
 * [Munin](http://munin-monitoring.org/)
 * [collectd](https://collectd.org/)
+* [Ganglia](http://ganglia.sourceforge.net/)
 
 
 ## Documentation
