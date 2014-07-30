@@ -263,6 +263,8 @@
 * [The Pragmatic Studio](http://pragmaticstudio.com/)
 * [Lynda](http://www.lynda.com/)
 * [Harvard CS50](https://manual.cs50.net/seminars/)
+* [Skillshare](http://www.skillshare.com/)
+* [CreativeLive](https://www.creativelive.com/)
 
 
 #Podcasts
