@@ -22,10 +22,12 @@
 
 ## Testing
 
+
 ### Management/Planning
 
 * [Testopia](https://developer.mozilla.org/en-US/docs/Mozilla/Bugzilla/Testopia)
 * [GTA](https://code.google.com/p/test-analytics/)
+* [Tarantula](http://www.testiatarantula.com/)
 
 
 ### Mocking
