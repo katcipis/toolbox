@@ -124,6 +124,11 @@
 * [BookKeeper](http://zookeeper.apache.org/bookkeeper/)
 
 
+## Log analisys
+
+* [Graylog2](http://graylog2.org/)
+
+
 ## Messaging systems
 
 * [Kafka](http://kafka.apache.org/)
