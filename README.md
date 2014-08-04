@@ -18,6 +18,7 @@
 * [XDK](http://xdk-software.intel.com/)
 * [GenyMotion](http://www.genymotion.com/)
 * [Appium](http://appium.io/)
+* [Calabash](http://calaba.sh/)
 
 
 ## Testing
@@ -124,9 +125,11 @@
 * [BookKeeper](http://zookeeper.apache.org/bookkeeper/)
 
 
-## Log analisys
+### Analytics
 
 * [Graylog2](http://graylog2.org/)
+* [Piwik](http://piwik.org/)
+* [SnowPlow](http://snowplowanalytics.com/)
 
 
 ## Messaging systems
@@ -234,9 +237,10 @@
 * [Inkscape](http://inkscape.org/en/)
 
 
-## GUI prototyping
+## UI Prototyping
 
 * [Pencil](http://pencil.evolus.vn/Default.html)
+* [POP](https://popapp.in/)
 
 
 ## Disk Recovery
