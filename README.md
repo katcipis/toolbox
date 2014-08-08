@@ -19,6 +19,7 @@
 * [GenyMotion](http://www.genymotion.com/)
 * [Appium](http://appium.io/)
 * [Calabash](http://calaba.sh/)
+* [App Inventor](http://appinventor.mit.edu/explore/)
 
 
 ## Testing
