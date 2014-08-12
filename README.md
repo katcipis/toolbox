@@ -102,6 +102,7 @@
 * [Netem](http://www.linuxfoundation.org/collaborate/workgroups/networking/netem)
 * [Iperf](https://code.google.com/p/iperf/)
 * [T50 Packet Injector](http://t50.sourceforge.net/index.html)
+* [CORE](http://www.nrl.navy.mil/itd/ncs/products/core)
 
 
 ## Data Processing
