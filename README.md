@@ -24,7 +24,6 @@
 
 ## Testing
 
-
 ### Management/Planning
 
 * [Testopia](https://developer.mozilla.org/en-US/docs/Mozilla/Bugzilla/Testopia)
@@ -58,7 +57,7 @@
 * [Coveralls](https://coveralls.io/)
 
 
-## Code Static Analysis
+## Static Analysis
 
 * [Simian](http://www.harukizaemon.com/simian/)
 * [PMD](http://pmd.sourceforge.net/)
@@ -249,6 +248,11 @@
 ## Disk Recovery
 
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk)
+
+
+## Media Center
+
+* [Kodi](http://xbmc.org/)
 
 
 #Books and Tutorials
