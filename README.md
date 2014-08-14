@@ -22,6 +22,11 @@
 * [App Inventor](http://appinventor.mit.edu/explore/)
 
 
+### Interactive maps
+
+* [Leaflet](http://leafletjs.com/)
+
+
 ## Testing
 
 ### Management/Planning
