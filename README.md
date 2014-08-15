@@ -73,6 +73,7 @@
 * [splint](http://splint.org/)
 * [oclint](http://oclint.org/)
 * [cccc](http://cccc.sourceforge.net/)
+* [Coverity](http://www.coverity.com/)
 
 
 ## Profiling
@@ -260,13 +261,18 @@
 * [Kodi](http://xbmc.org/)
 
 
-#Books and Tutorials
+#Books / Articles
 
 ## Autotools
 
 * [Autotools Mythbuster](https://www.flameeyes.eu/autotools-mythbuster/)
 * [Autobook](https://www.sourceware.org/autobook/autobook/autobook.html)
 * [Autotools presentation](https://www.lrde.epita.fr/~adl/dl/autotools.pdf)
+
+
+## Javascript
+
+* [SuperheroJS](http://superherojs.com/)
 
 
 #Conferences 
