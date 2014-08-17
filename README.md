@@ -18,10 +18,16 @@
 * [XDK](http://xdk-software.intel.com/)
 * [GenyMotion](http://www.genymotion.com/)
 * [Appium](http://appium.io/)
+* [Calabash](http://calaba.sh/)
+* [App Inventor](http://appinventor.mit.edu/explore/)
+
+
+### Interactive maps
+
+* [Leaflet](http://leafletjs.com/)
 
 
 ## Testing
-
 
 ### Management/Planning
 
@@ -56,7 +62,7 @@
 * [Coveralls](https://coveralls.io/)
 
 
-## Code Static Analysis
+## Static Analysis
 
 * [Simian](http://www.harukizaemon.com/simian/)
 * [PMD](http://pmd.sourceforge.net/)
@@ -67,6 +73,7 @@
 * [splint](http://splint.org/)
 * [oclint](http://oclint.org/)
 * [cccc](http://cccc.sourceforge.net/)
+* [Coverity](http://www.coverity.com/)
 
 
 ## Profiling
@@ -100,6 +107,8 @@
 * [Netem](http://www.linuxfoundation.org/collaborate/workgroups/networking/netem)
 * [Iperf](https://code.google.com/p/iperf/)
 * [T50 Packet Injector](http://t50.sourceforge.net/index.html)
+* [CORE](http://www.nrl.navy.mil/itd/ncs/products/core)
+* [ntop](http://www.ntop.org)
 
 
 ## Data Processing
@@ -124,9 +133,11 @@
 * [BookKeeper](http://zookeeper.apache.org/bookkeeper/)
 
 
-## Log analisys
+### Analytics
 
 * [Graylog2](http://graylog2.org/)
+* [Piwik](http://piwik.org/)
+* [SnowPlow](http://snowplowanalytics.com/)
 
 
 ## Messaging systems
@@ -235,9 +246,10 @@
 * [Inkscape](http://inkscape.org/en/)
 
 
-## GUI prototyping
+## UI Prototyping
 
 * [Pencil](http://pencil.evolus.vn/Default.html)
+* [POP](https://popapp.in/)
 
 
 ## Disk Recovery
@@ -245,13 +257,23 @@
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk)
 
 
-#Books and Tutorials
+## Media Center
+
+* [Kodi](http://xbmc.org/)
+
+
+#Books / Articles
 
 ## Autotools
 
 * [Autotools Mythbuster](https://www.flameeyes.eu/autotools-mythbuster/)
 * [Autobook](https://www.sourceware.org/autobook/autobook/autobook.html)
 * [Autotools presentation](https://www.lrde.epita.fr/~adl/dl/autotools.pdf)
+
+
+## Javascript
+
+* [SuperheroJS](http://superherojs.com/)
 
 
 #Conferences 
