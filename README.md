@@ -1,5 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
 - [Tools](#tools)
   - [Operational Systems](#operational-systems)
@@ -32,8 +33,8 @@
     - [Blogging](#blogging)
   - [Deploy](#deploy)
   - [Isolated Environments](#isolated-environments)
-  - [Web Applications](#web-applications)
-    - [REST](#rest)
+  - [Web](#web)
+    - [Documentation tools](#documentation-tools)
     - [Security](#security)
     - [Scaffolding](#scaffolding)
   - [Automation](#automation)
@@ -260,7 +261,7 @@
 * [cgroups](https://www.kernel.org/doc/Documentation/cgroups/cgroups.txt)
 
 
-## Web Applications
+## Web
 
 
 * [Goo](http://www.goocreate.com/)
@@ -269,7 +270,7 @@
 * [PojoViz](http://maurizzzio.github.io/PojoViz/public/vulcanize.html)
 
 
-### REST
+### Documentation tools
 
 * [Pacto](https://github.com/thoughtworks/pacto)
 * [Swagger](https://helloreverb.com/developers/swagger)
