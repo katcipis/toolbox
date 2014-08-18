@@ -1,3 +1,57 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Tools](#tools)
+  - [Operational Systems](#operational-systems)
+  - [Specification languages](#specification-languages)
+  - [Mobile](#mobile)
+    - [Interactive maps](#interactive-maps)
+  - [Testing](#testing)
+    - [Management/Planning](#managementplanning)
+    - [Mocking](#mocking)
+  - [Code Review](#code-review)
+  - [Continuous Integration / Deployment](#continuous-integration--deployment)
+    - [Coverage + CI](#coverage--ci)
+  - [Static Analysis](#static-analysis)
+  - [Profiling](#profiling)
+    - [Web services](#web-services)
+    - [C/C++](#cc)
+  - [Network](#network)
+  - [Data Processing](#data-processing)
+    - [Text searching](#text-searching)
+    - [Streaming](#streaming)
+    - [Logging](#logging)
+    - [Analytics](#analytics)
+  - [Messaging systems](#messaging-systems)
+  - [Graphing](#graphing)
+  - [Templating](#templating)
+  - [Project Mangement](#project-mangement)
+  - [VOIP](#voip)
+  - [Monitoring](#monitoring)
+  - [Documentation](#documentation)
+    - [Blogging](#blogging)
+  - [Deploy](#deploy)
+  - [Isolated Environments](#isolated-environments)
+  - [Web Applications](#web-applications)
+    - [REST](#rest)
+    - [Security](#security)
+    - [Scaffolding](#scaffolding)
+  - [Automation](#automation)
+  - [Drawing](#drawing)
+  - [UI Prototyping](#ui-prototyping)
+  - [Disk Recovery](#disk-recovery)
+  - [Media Center](#media-center)
+- [Books / Articles](#books--articles)
+  - [Autotools](#autotools)
+  - [Javascript](#javascript)
+- [Conferences](#conferences)
+- [Courses](#courses)
+- [Podcasts](#podcasts)
+- [Blogs](#blogs)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 #Tools
 
 
