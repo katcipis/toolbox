@@ -44,7 +44,6 @@
   - [Media Center](#media-center)
 - [Books / Articles](#books--articles)
   - [Autotools](#autotools)
-  - [Javascript](#javascript)
 - [Conferences](#conferences)
 - [Courses](#courses)
 - [Podcasts](#podcasts)
@@ -325,11 +324,6 @@
 * [Autotools presentation](https://www.lrde.epita.fr/~adl/dl/autotools.pdf)
 
 
-## Javascript
-
-* [SuperheroJS](http://superherojs.com/)
-
-
 #Conferences 
 
 * [GStreamer](http://gstconf.ubicast.tv/)
@@ -363,6 +357,8 @@
 #Blogs 
 
 * [Netflix](http://techblog.netflix.com/)
+* [Crockford on Javascript](http://yuiblog.com/crockford/)
+* [SuperheroJS](http://superherojs.com/)
 * [Free electrons](http://free-electrons.com/blog/)
 * [8th Light](http://blog.8thlight.com/)
 * [Clean coder](http://blog.cleancoder.com/)
