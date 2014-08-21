@@ -54,11 +54,6 @@
 #Tools
 
 
-## Operational Systems
-
-* [CoreOS](https://coreos.com/)
-
-
 ## Specification languages
 
 * [TLA](http://research.microsoft.com/en-us/um/people/lamport/tla/tla.html)
@@ -138,11 +133,6 @@
 * [KCacheGrind](http://kcachegrind.sourceforge.net/html/Home.html)
 
 
-### Web services
-
-* [Gatling](http://gatling-tool.org/)
-* [httperf](http://www.hpl.hp.com/research/linux/httperf/)
-* [ab](http://httpd.apache.org/docs/2.2/programs/ab.html)
 
 
 ### C/C++
@@ -262,14 +252,25 @@
 
 ## Web
 
-
-* [Goo](http://www.goocreate.com/)
 * [Web Starter Kit](https://developers.google.com/web/starter-kit/)
 * [Meteor](https://www.meteor.com/)
+
+
+### Profiling
+
+* [Gatling](http://gatling-tool.org/)
+* [httperf](http://www.hpl.hp.com/research/linux/httperf/)
+* [ab](http://httpd.apache.org/docs/2.2/programs/ab.html)
+
+
+### Frontend
+
+* [Goo](http://www.goocreate.com/)
 * [PojoViz](http://maurizzzio.github.io/PojoViz/public/vulcanize.html)
+* [Wijmo5](http://wijmo.com/5/)
 
 
-### Documentation tools
+### Documentation
 
 * [Pacto](https://github.com/thoughtworks/pacto)
 * [Swagger](https://helloreverb.com/developers/swagger)
