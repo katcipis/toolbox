@@ -3,7 +3,6 @@
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
 - [Tools](#tools)
-  - [Operational Systems](#operational-systems)
   - [Specification languages](#specification-languages)
   - [Mobile](#mobile)
     - [Interactive maps](#interactive-maps)
@@ -15,7 +14,6 @@
     - [Coverage + CI](#coverage--ci)
   - [Static Analysis](#static-analysis)
   - [Profiling](#profiling)
-    - [Web services](#web-services)
     - [C/C++](#cc)
   - [Network](#network)
   - [Data Processing](#data-processing)
@@ -34,7 +32,9 @@
   - [Deploy](#deploy)
   - [Isolated Environments](#isolated-environments)
   - [Web](#web)
-    - [Documentation tools](#documentation-tools)
+    - [Profiling](#profiling-1)
+    - [Frontend](#frontend)
+    - [Documentation](#documentation-1)
     - [Security](#security)
     - [Scaffolding](#scaffolding)
   - [Automation](#automation)
