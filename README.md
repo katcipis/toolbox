@@ -329,6 +329,7 @@
 * [GStreamer](http://gstconf.ubicast.tv/)
 * [ELCE](http://events.linuxfoundation.org/events/embedded-linux-conference-europe)
 * [ESC](http://www.escbrazil.com.br)
+* [CONADEV](http://www.conadev.com/)
 
 
 #Courses 
