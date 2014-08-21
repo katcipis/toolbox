@@ -360,6 +360,7 @@
 
 * [Netflix](http://techblog.netflix.com/)
 * [Crockford on Javascript](http://yuiblog.com/crockford/)
+* [More Crockford :-)](http://javascript.crockford.com/)
 * [SuperheroJS](http://superherojs.com/)
 * [Free electrons](http://free-electrons.com/blog/)
 * [8th Light](http://blog.8thlight.com/)
