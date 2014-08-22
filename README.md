@@ -271,6 +271,7 @@
 * [EmberJS](http://emberjs.com/)
 * [AngularJS](https://angularjs.org/)
 * [ReactJS](http://facebook.github.io/react/)
+* [Heatmap.js](http://www.patrick-wied.at/static/heatmapjs)
 
 
 ### Documentation
