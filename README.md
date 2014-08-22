@@ -268,12 +268,16 @@
 * [Goo](http://www.goocreate.com/)
 * [PojoViz](http://maurizzzio.github.io/PojoViz/public/vulcanize.html)
 * [Wijmo5](http://wijmo.com/5/)
+* [EmberJS](http://emberjs.com/)
+* [AngularJS](https://angularjs.org/)
+* [ReactJS](http://facebook.github.io/react/)
 
 
 ### Documentation
 
 * [Pacto](https://github.com/thoughtworks/pacto)
 * [Swagger](https://helloreverb.com/developers/swagger)
+* [API Blueprint](http://apiblueprint.org/)
 
 
 ### Security
