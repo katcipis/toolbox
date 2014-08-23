@@ -230,6 +230,7 @@
 
 * [Read the docs](https://readthedocs.org/)
 * [Github pages](https://pages.github.com/)
+* [Document-Bootstrap](http://gregfranko.com/Document-Bootstrap/)
 
 
 ### Blogging
@@ -280,6 +281,7 @@
 * [Pacto](https://github.com/thoughtworks/pacto)
 * [Swagger](https://helloreverb.com/developers/swagger)
 * [API Blueprint](http://apiblueprint.org/)
+* [Dox](https://github.com/visionmedia/dox)
 
 
 ### Security
