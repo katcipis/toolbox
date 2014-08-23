@@ -256,8 +256,9 @@
 * [Meteor](https://www.meteor.com/)
 
 
-### Profiling
+### Performance tests
 
+* [JMeter](http://jmeter.apache.org/)
 * [Gatling](http://gatling-tool.org/)
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
 * [ab](http://httpd.apache.org/docs/2.2/programs/ab.html)
