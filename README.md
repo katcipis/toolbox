@@ -64,6 +64,7 @@
 * [Flurry Analytics](http://www.flurry.com/solutions/analytics)
 * [Phone Gap](http://phonegap.com/)
 * [XDK](http://xdk-software.intel.com/)
+* [Apache Cordova](http://cordova.apache.org/)
 * [GenyMotion](http://www.genymotion.com/)
 * [Appium](http://appium.io/)
 * [Calabash](http://calaba.sh/)
