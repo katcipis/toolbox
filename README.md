@@ -32,7 +32,8 @@
   - [Deploy](#deploy)
   - [Isolated Environments](#isolated-environments)
   - [Web](#web)
-    - [Profiling](#profiling-1)
+    - [Maps](#maps)
+    - [Performance tests](#performance-tests)
     - [Frontend](#frontend)
     - [Documentation](#documentation-1)
     - [Security](#security)
@@ -309,6 +310,8 @@
 ## Automation
 
 * [The foreman](http://theforeman.org/)
+* [SaltStack](http://www.saltstack.com/)
+* [Ansible](http://www.ansible.com/
 
 
 ## Drawing 
