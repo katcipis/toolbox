@@ -33,7 +33,7 @@
   - [Isolated Environments](#isolated-environments)
   - [Web](#web)
     - [Maps](#maps)
-    - [Performance tests](#performance-tests)
+    - [Performance/Load tests](#performanceload-tests)
     - [Frontend](#frontend)
     - [Documentation](#documentation-1)
     - [Security](#security)
@@ -266,12 +266,13 @@
 * [CartoDB](http://cartodb.com/)
 
 
-### Performance tests
+### Performance/Load tests
 
 * [JMeter](http://jmeter.apache.org/)
 * [Gatling](http://gatling-tool.org/)
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
 * [ab](http://httpd.apache.org/docs/2.2/programs/ab.html)
+* [Bees with machine guns](https://github.com/newsapps/beeswithmachineguns)
 
 
 ### Frontend
