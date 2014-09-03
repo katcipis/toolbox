@@ -79,6 +79,7 @@
 
 ## Testing
 
+
 ### Management/Planning
 
 * [Testopia](https://developer.mozilla.org/en-US/docs/Mozilla/Bugzilla/Testopia)
@@ -273,6 +274,13 @@
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
 * [ab](http://httpd.apache.org/docs/2.2/programs/ab.html)
 * [Bees with machine guns](https://github.com/newsapps/beeswithmachineguns)
+
+
+### Acceptance tests
+
+* [splinter](http://splinter.cobrateam.info/)
+* [selenium](http://www.seleniumhq.org/)
+* [PhantomJS](http://phantomjs.org/)
 
 
 ### Frontend
