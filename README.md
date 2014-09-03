@@ -292,6 +292,8 @@
 * [AngularJS](https://angularjs.org/)
 * [ReactJS](http://facebook.github.io/react/)
 * [Heatmap.js](http://www.patrick-wied.at/static/heatmapjs)
+* [Browserify](http://browserify.org/)
+* [PouchDB](http://pouchdb.com/)
 
 
 ### Documentation
