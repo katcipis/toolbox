@@ -281,6 +281,7 @@
 * [splinter](http://splinter.cobrateam.info/)
 * [selenium](http://www.seleniumhq.org/)
 * [PhantomJS](http://phantomjs.org/)
+* [Pioneer](http://pioneerjs.com/)
 
 
 ### Frontend
