@@ -157,13 +157,19 @@
 * [ntop](http://www.ntop.org)
 
 
+## PAAS
+
+* [Deis](http://deis.io/)
+* [Flynn](https://flynn.io/)
+
+
 ## Data Processing
 
 * [Hadoop](http://hadoop.apache.org/)
 * [Spark](http://spark.apache.org/)
 
 
-### Text searching
+### Searching
 
 * [Solr](http://lucene.apache.org/solr/)
 
