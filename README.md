@@ -393,6 +393,12 @@
 * [Free Electrons](http://free-electrons.com/docs/)
 
 
+#Screencasts
+
+* [Destroy all software](https://www.destroyallsoftware.com/screencasts/catalog)
+* [Clean Coders](https://cleancoders.com/)
+
+
 #Blogs 
 
 * [Netflix](http://techblog.netflix.com/)
