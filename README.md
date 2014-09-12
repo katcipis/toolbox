@@ -218,6 +218,7 @@
 * [Redmine](http://www.redmine.org/)
 * [Phabricator](http://phabricator.org/)
 * [Trello](https://trello.com/)
+* [Waffle](https://waffle.io/)
 
 
 ## VOIP
