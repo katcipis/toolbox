@@ -285,7 +285,6 @@
 
 ### Acceptance tests
 
-* [splinter](http://splinter.cobrateam.info/)
 * [selenium](http://www.seleniumhq.org/)
 * [PhantomJS](http://phantomjs.org/)
 * [Pioneer](http://pioneerjs.com/)
@@ -302,6 +301,7 @@
 * [Heatmap.js](http://www.patrick-wied.at/static/heatmapjs)
 * [Browserify](http://browserify.org/)
 * [PouchDB](http://pouchdb.com/)
+* [Phaser](http://phaser.io/)
 
 
 ### Documentation
