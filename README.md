@@ -241,6 +241,7 @@
 * [Read the docs](https://readthedocs.org/)
 * [Github pages](https://pages.github.com/)
 * [Document-Bootstrap](http://gregfranko.com/Document-Bootstrap/)
+* [Dexy](http://www.dexy.it/)
 
 
 ### Blogging
@@ -310,6 +311,7 @@
 * [Swagger](https://helloreverb.com/developers/swagger)
 * [API Blueprint](http://apiblueprint.org/)
 * [Dox](https://github.com/visionmedia/dox)
+* [Sphinx HTTP](http://pythonhosted.org/sphinxcontrib-httpdomain/)
 
 
 ### Security
