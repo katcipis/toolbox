@@ -356,7 +356,12 @@
 * [Kodi](http://xbmc.org/)
 
 
-#Books / Articles
+# Books / Articles
+
+## Git 
+
+* [Git hooks](http://githooks.com/)
+
 
 ## Autotools
 
