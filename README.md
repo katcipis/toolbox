@@ -281,6 +281,7 @@
 * [Gatling](http://gatling-tool.org/)
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
 * [ab](http://httpd.apache.org/docs/2.2/programs/ab.html)
+* [wrk](https://github.com/wg/wrk)
 * [Bees with machine guns](https://github.com/newsapps/beeswithmachineguns)
 
 
