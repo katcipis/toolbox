@@ -197,6 +197,7 @@
 * [Kafka](http://kafka.apache.org/)
 * [RabbitMQ](http://www.rabbitmq.com/)
 * [0MQ](http://zeromq.org/)
+* [Iris](http://iris.karalabe.com/)
 
 
 ## Graphing
