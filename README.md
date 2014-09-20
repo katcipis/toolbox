@@ -245,6 +245,11 @@
 * [Dexy](http://www.dexy.it/)
 
 
+### Presentations
+
+* [mdp](https://github.com/visit1985/mdp)
+
+
 ### Blogging
 
 * [Octopress](http://octopress.org/)
