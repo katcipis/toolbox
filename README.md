@@ -90,6 +90,7 @@
 ### Mocking
 
 * [Mountebank](http://www.mbtest.org/)
+* [VCR](https://github.com/vcr/vcr)
 
 
 ## Code Review
