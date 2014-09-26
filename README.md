@@ -190,6 +190,7 @@
 * [Graylog2](http://graylog2.org/)
 * [Piwik](http://piwik.org/)
 * [SnowPlow](http://snowplowanalytics.com/)
+* [Inviso](https://github.com/Netflix/inviso)
 
 
 ## Messaging systems
