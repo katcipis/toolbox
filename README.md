@@ -197,6 +197,7 @@
 * [Kafka](http://kafka.apache.org/)
 * [RabbitMQ](http://www.rabbitmq.com/)
 * [0MQ](http://zeromq.org/)
+* [Iris](http://iris.karalabe.com/)
 
 
 ## Graphing
@@ -242,6 +243,11 @@
 * [Github pages](https://pages.github.com/)
 * [Document-Bootstrap](http://gregfranko.com/Document-Bootstrap/)
 * [Dexy](http://www.dexy.it/)
+
+
+### Presentations
+
+* [mdp](https://github.com/visit1985/mdp)
 
 
 ### Blogging
@@ -303,6 +309,7 @@
 * [Heatmap.js](http://www.patrick-wied.at/static/heatmapjs)
 * [Browserify](http://browserify.org/)
 * [PouchDB](http://pouchdb.com/)
+* [ForerunnerDB](http://www.forerunnerdb.com/)
 * [Phaser](http://phaser.io/)
 
 
