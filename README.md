@@ -16,8 +16,9 @@
   - [Profiling](#profiling)
     - [C/C++](#cc)
   - [Network](#network)
+  - [PAAS](#paas)
   - [Data Processing](#data-processing)
-    - [Text searching](#text-searching)
+    - [Searching](#searching)
     - [Streaming](#streaming)
     - [Logging](#logging)
     - [Analytics](#analytics)
@@ -28,26 +29,31 @@
   - [VOIP](#voip)
   - [Monitoring](#monitoring)
   - [Documentation](#documentation)
+    - [Presentations](#presentations)
     - [Blogging](#blogging)
   - [Deploy](#deploy)
   - [Isolated Environments](#isolated-environments)
   - [Web](#web)
     - [Maps](#maps)
     - [Performance/Load tests](#performanceload-tests)
+    - [Acceptance tests](#acceptance-tests)
     - [Frontend](#frontend)
     - [Documentation](#documentation-1)
     - [Security](#security)
     - [Scaffolding](#scaffolding)
   - [Automation](#automation)
-  - [Drawing](#drawing)
+  - [Diagrams](#diagrams)
+    - [UML](#uml)
   - [UI Prototyping](#ui-prototyping)
   - [Disk Recovery](#disk-recovery)
   - [Media Center](#media-center)
 - [Books / Articles](#books--articles)
+  - [Git](#git)
   - [Autotools](#autotools)
 - [Conferences](#conferences)
 - [Courses](#courses)
 - [Podcasts](#podcasts)
+- [Screencasts](#screencasts)
 - [Blogs](#blogs)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -345,11 +351,19 @@
 * [Ansible](http://www.ansible.com/
 
 
-## Drawing 
+## Diagrams
 
 * [Inkscape](http://inkscape.org/en/)
 * [Sequence Diagrams](https://www.websequencediagrams.com/)
 * [Dia](https://wiki.gnome.org/Apps/Dia/)
+
+
+### UML
+
+* [Argo](http://argouml.tigris.org/)
+* [UMLet](http://www.umlet.com/)
+* [GenMyModel](http://www.genmymodel.com/)
+* [Astah](http://astah.net/)
 
 
 ## UI Prototyping
