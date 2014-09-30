@@ -348,6 +348,8 @@
 ## Drawing 
 
 * [Inkscape](http://inkscape.org/en/)
+* [Sequence Diagrams](https://www.websequencediagrams.com/)
+* [Dia](https://wiki.gnome.org/Apps/Dia/)
 
 
 ## UI Prototyping
