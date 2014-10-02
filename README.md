@@ -5,6 +5,7 @@
 - [Tools](#tools)
   - [Specification languages](#specification-languages)
   - [Mobile](#mobile)
+  - [Configuration](#configuration)
     - [Interactive maps](#interactive-maps)
   - [Testing](#testing)
     - [Management/Planning](#managementplanning)
@@ -76,6 +77,11 @@
 * [Appium](http://appium.io/)
 * [Calabash](http://calaba.sh/)
 * [App Inventor](http://appinventor.mit.edu/explore/)
+
+
+## Configuration
+
+* [escservesconfig](https://code.google.com/p/escservesconfig/)
 
 
 ### Interactive maps
