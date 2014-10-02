@@ -267,6 +267,7 @@
 ## Deploy
 
 * [Packer](http://www.packer.io/)
+* [Omnibus](https://github.com/opscode/omnibus)
 
 
 ## Isolated Environments
