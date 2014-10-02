@@ -294,6 +294,7 @@
 
 * [JMeter](http://jmeter.apache.org/)
 * [Gatling](http://gatling-tool.org/)
+* [curl-loader](http://curl-loader.sourceforge.net/)
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
 * [ab](http://httpd.apache.org/docs/2.2/programs/ab.html)
 * [wrk](https://github.com/wg/wrk)
