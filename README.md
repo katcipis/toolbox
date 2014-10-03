@@ -262,6 +262,7 @@
 ### Presentations
 
 * [mdp](https://github.com/visit1985/mdp)
+* [reveal.js](http://lab.hakim.se/reveal-js)
 
 
 ### Blogging
