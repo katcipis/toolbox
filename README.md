@@ -257,6 +257,7 @@
 * [Github pages](https://pages.github.com/)
 * [Document-Bootstrap](http://gregfranko.com/Document-Bootstrap/)
 * [Dexy](http://www.dexy.it/)
+* [Pandoc](http://johnmacfarlane.net/pandoc/)
 
 
 ### Presentations
