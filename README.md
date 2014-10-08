@@ -236,6 +236,12 @@
 * [Waffle](https://waffle.io/)
 
 
+## Media Servers
+
+* [Kurento](http://www.kurento.org)
+* [gst-streaming-server](http://gstreamer.freedesktop.org/modules/gst-streaming-server.html)
+
+
 ## VOIP
 
 * [PESQ](http://www.pesq.org/)
