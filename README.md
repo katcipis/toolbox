@@ -147,8 +147,7 @@
 * [htop](http://hisham.hm/htop/)
 * [OProfile](http://oprofile.sourceforge.net/about/)
 * [KCacheGrind](http://kcachegrind.sourceforge.net/html/Home.html)
-
-
+* [Bustle](http://www.willthompson.co.uk/bustle/)
 
 
 ### C/C++
