@@ -167,6 +167,8 @@
 * [T50 Packet Injector](http://t50.sourceforge.net/index.html)
 * [CORE](http://www.nrl.navy.mil/itd/ncs/products/core)
 * [ntop](http://www.ntop.org)
+* [nmap](http://nmap.org/)
+* [iptraf](http://iptraf.seul.org/)
 
 
 ## PAAS
