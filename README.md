@@ -360,6 +360,7 @@
 * [Zuul](https://github.com/Netflix/zuul)
 * [OpenID](http://openid.net/)
 * [OAuth](http://oauth.net/)
+* [StartSSL](https://www.startssl.com/)
 
 
 ### Scaffolding
