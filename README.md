@@ -447,7 +447,7 @@
 
 #Podcasts
 
-* [FLOSS](http://twit.tv/show/floss-weekly)
+* [DevChat](http://devchat.tv/)
 * [Grok](http://www.grokpodcast.com/)
 * [SE Radio](http://www.se-radio.net/)
 * [Elegant Code](http://elegantcode.com/)
