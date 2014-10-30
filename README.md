@@ -193,6 +193,7 @@
 ### Searching
 
 * [Solr](http://lucene.apache.org/solr/)
+* [Presto](http://prestodb.io/)
 
 
 ### Streaming
