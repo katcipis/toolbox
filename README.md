@@ -364,6 +364,7 @@
 * [OpenID](http://openid.net/)
 * [OAuth](http://oauth.net/)
 * [StartSSL](https://www.startssl.com/)
+* [Shiro](http://shiro.apache.org/)
 
 
 ### Scaffolding
