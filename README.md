@@ -126,6 +126,7 @@
 * [Go](http://www.go.cd/)
 * [Travis](https://travis-ci.org/)
 * [Buildbot](http://buildbot.net/)
+* [Gitlab CI](https://about.gitlab.com/gitlab-ci/)
 
 
 ### Coverage + CI
