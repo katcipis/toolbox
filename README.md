@@ -98,7 +98,6 @@
 
 ## Testing
 
-
 ### Management/Planning
 
 * [Testopia](https://developer.mozilla.org/en-US/docs/Mozilla/Bugzilla/Testopia)
@@ -127,10 +126,6 @@
 * [Travis](https://travis-ci.org/)
 * [Buildbot](http://buildbot.net/)
 * [Gitlab CI](https://about.gitlab.com/gitlab-ci/)
-
-
-### Coverage + CI
-
 * [Coveralls](https://coveralls.io/)
 
 
@@ -283,23 +278,10 @@
 * [dzslides](http://paulrouget.com/dzslides/)
 
 
-### Blogging
-
-* [Octopress](http://octopress.org/)
-* [Jekill](http://jekyllrb.com/)
-
-
 ## Deploy
 
 * [Packer](http://www.packer.io/)
 * [Omnibus](https://github.com/opscode/omnibus)
-
-
-## Isolated Environments
-
-* [Docker](https://www.docker.io/)
-* [Linux Containers](https://linuxcontainers.org/)
-* [cgroups](https://www.kernel.org/doc/Documentation/cgroups/cgroups.txt)
 
 
 ## Web
