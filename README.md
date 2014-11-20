@@ -124,6 +124,7 @@
 * [Buildbot](http://buildbot.net/)
 * [Gitlab CI](https://about.gitlab.com/gitlab-ci/)
 * [Coveralls](https://coveralls.io/)
+* [CircleCI](https://circleci.com/)
 
 
 ## Static Analysis
