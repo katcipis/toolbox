@@ -347,6 +347,7 @@
 * [OpenID](http://openid.net/)
 * [OAuth](http://oauth.net/)
 * [StartSSL](https://www.startssl.com/)
+* [Lets Encrypt](https://letsencrypt.org/)
 * [Shiro](http://shiro.apache.org/)
 
 
