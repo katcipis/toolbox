@@ -141,6 +141,11 @@
 * [Coverity](http://www.coverity.com/)
 
 
+### Javascript
+
+* [Flow](http://flowtype.org/)
+
+
 ## Profiling
 
 * [DTrace](http://dtrace.org/blogs/)
@@ -344,11 +349,11 @@
 * [Kerberos](http://web.mit.edu/kerberos/)
 * [Central Authentication Service](https://wiki.jasig.org/display/CAS/Home)
 * [Zuul](https://github.com/Netflix/zuul)
-* [OpenID](http://openid.net/)
-* [OAuth](http://oauth.net/)
 * [StartSSL](https://www.startssl.com/)
 * [Lets Encrypt](https://letsencrypt.org/)
 * [Shiro](http://shiro.apache.org/)
+* [SecStore](https://github.com/jas-/secStore.js)
+* [GuardianJS](http://guardianjs.com/)
 
 
 ### Scaffolding
