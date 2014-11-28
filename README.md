@@ -176,6 +176,7 @@
 * [nmap](http://nmap.org/)
 * [iptraf](http://iptraf.seul.org/)
 * [keepalived](http://www.keepalived.org/)
+* [Hydra](https://www.thc.org/thc-hydra/)
 
 
 ## PAAS
