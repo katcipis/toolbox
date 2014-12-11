@@ -116,6 +116,11 @@
 * [Review Board](http://www.reviewboard.org/)
 
 
+## DevOps
+
+* [Atomic](http://www.projectatomic.io/)
+
+
 ## Continuous Integration / Deployment
 
 * [Snap](https://snap-ci.com/)
