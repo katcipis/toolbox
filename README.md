@@ -12,6 +12,7 @@
     - [Management/Planning](#managementplanning)
     - [Mocking](#mocking)
   - [Code Review](#code-review)
+  - [DevOps](#devops)
   - [Continuous Integration / Deployment](#continuous-integration--deployment)
   - [Static Analysis](#static-analysis)
     - [Javascript](#javascript)
