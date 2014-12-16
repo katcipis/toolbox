@@ -273,6 +273,7 @@
 * [Munin](http://munin-monitoring.org/)
 * [collectd](https://collectd.org/)
 * [Ganglia](http://ganglia.sourceforge.net/)
+* [Monitorix](http://www.monitorix.org/)
 
 
 ## Documentation
