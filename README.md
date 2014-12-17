@@ -11,6 +11,7 @@
   - [Testing](#testing)
     - [Management/Planning](#managementplanning)
     - [Mocking](#mocking)
+    - [Aggregation](#aggregation)
   - [Code Review](#code-review)
   - [DevOps](#devops)
   - [Continuous Integration / Deployment](#continuous-integration--deployment)
