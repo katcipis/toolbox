@@ -113,10 +113,14 @@
 * [VCR](https://github.com/vcr/vcr)
 
 
+### Aggregation
+
+* [Preceptor](https://github.com/yahoo/preceptor)
+
+
 ## Code Review
 
 * [Gerrit](https://code.google.com/p/gerrit/)
-* [Review Board](http://www.reviewboard.org/)
 
 
 ## DevOps
@@ -401,10 +405,12 @@
 * [Inkscape](http://inkscape.org/en/)
 * [Sequence Diagrams](https://www.websequencediagrams.com/)
 * [Dia](https://wiki.gnome.org/Apps/Dia/)
+* [Draw.io](https://www.draw.io/)
 
 
 ### UML
 
+* [yUML](http://yuml.me/)
 * [Argo](http://argouml.tigris.org/)
 * [UMLet](http://www.umlet.com/)
 * [GenMyModel](http://www.genmymodel.com/)
