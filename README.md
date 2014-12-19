@@ -149,11 +149,16 @@
 * [CCFinderX](http://www.ccfinder.net/ccfinderxos.html)
 * [Clone Digger](http://www.ccfinder.net/ccfinderxos.html)
 * [SonarQube](http://www.sonarqube.org/)
-* [cppcheck](http://cppcheck.sourceforge.net)
-* [splint](http://splint.org/)
 * [oclint](http://oclint.org/)
 * [cccc](http://cccc.sourceforge.net/)
 * [Coverity](http://www.coverity.com/)
+
+
+### C / C++
+
+* [SonarQube C++](https://github.com/wenns/sonar-cxx)
+* [cppcheck](http://cppcheck.sourceforge.net)
+* [splint](http://splint.org/)
 
 
 ### Javascript
