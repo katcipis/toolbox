@@ -270,6 +270,7 @@
 * [Phabricator](http://phabricator.org/)
 * [Trello](https://trello.com/)
 * [Waffle](https://waffle.io/)
+* [Taiga.io](https://taiga.io/)
 
 
 ## Media Servers
