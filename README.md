@@ -238,6 +238,8 @@
 
 ### Analytics
 
+* [Logstash](http://www.logstash.net/)
+* [Heka](https://github.com/mozilla-services/heka)
 * [Graylog2](http://graylog2.org/)
 * [Piwik](http://piwik.org/)
 * [SnowPlow](http://snowplowanalytics.com/)
