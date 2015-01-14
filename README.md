@@ -250,6 +250,11 @@
 * [Iris](http://iris.karalabe.com/)
 
 
+## Service Discovery
+
+* [Consul.io](https://consul.io/)
+
+
 ## Graphing
 
 * [RRDtool](http://oss.oetiker.ch/rrdtool/)
