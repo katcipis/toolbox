@@ -278,13 +278,20 @@
 
 ## Project Mangement
 
+### Services
+
 * [Mingle](http://getmingle.io/mingle.html)
 * [Pivotal](http://www.pivotaltracker.com/)
 * [Redmine](http://www.redmine.org/)
-* [Phabricator](http://phabricator.org/)
 * [Trello](https://trello.com/)
 * [Waffle](https://waffle.io/)
 * [Taiga.io](https://taiga.io/)
+
+
+### Open Source
+
+* [Phabricator](http://phabricator.org/)
+* [LibreBoard](https://github.com/libreboard/libreboard)
 
 
 ## Media Servers
