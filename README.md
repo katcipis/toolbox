@@ -366,6 +366,7 @@
 * [PojoViz](http://maurizzzio.github.io/PojoViz/public/vulcanize.html)
 * [Wijmo5](http://wijmo.com/5/)
 * [EmberJS](http://emberjs.com/)
+* [Aurelia](http://aurelia.io/)
 * [AngularJS](https://angularjs.org/)
 * [ReactJS](http://facebook.github.io/react/)
 * [Heatmap.js](http://www.patrick-wied.at/static/heatmapjs)
