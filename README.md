@@ -315,6 +315,7 @@
 * [Ganglia](http://ganglia.sourceforge.net/)
 * [Monitorix](http://www.monitorix.org/)
 * [DaemonTools](http://cr.yp.to/daemontools.html)
+* [Prometheus](http://prometheus.io/)
 
 
 ## Documentation
