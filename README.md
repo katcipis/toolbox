@@ -134,7 +134,6 @@
 ## DevOps
 
 * [Atomic](http://www.projectatomic.io/)
-* [SysDig](http://www.sysdig.org/)
 
 
 ## Continuous Integration / Deployment
@@ -316,6 +315,7 @@
 * [Monitorix](http://www.monitorix.org/)
 * [DaemonTools](http://cr.yp.to/daemontools.html)
 * [Prometheus](http://prometheus.io/)
+* [SysDig](http://www.sysdig.org/)
 
 
 ## Documentation
