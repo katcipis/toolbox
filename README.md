@@ -134,7 +134,6 @@
 ## DevOps
 
 * [Atomic](http://www.projectatomic.io/)
-* [SysDig](http://www.sysdig.org/)
 
 
 ## Continuous Integration / Deployment
@@ -279,13 +278,20 @@
 
 ## Project Mangement
 
+### Services
+
 * [Mingle](http://getmingle.io/mingle.html)
 * [Pivotal](http://www.pivotaltracker.com/)
 * [Redmine](http://www.redmine.org/)
-* [Phabricator](http://phabricator.org/)
 * [Trello](https://trello.com/)
 * [Waffle](https://waffle.io/)
 * [Taiga.io](https://taiga.io/)
+
+
+### Open Source
+
+* [Phabricator](http://phabricator.org/)
+* [LibreBoard](https://github.com/libreboard/libreboard)
 
 
 ## Media Servers
@@ -309,6 +315,8 @@
 * [Ganglia](http://ganglia.sourceforge.net/)
 * [Monitorix](http://www.monitorix.org/)
 * [DaemonTools](http://cr.yp.to/daemontools.html)
+* [Prometheus](http://prometheus.io/)
+* [SysDig](http://www.sysdig.org/)
 
 
 ## Documentation
@@ -360,6 +368,7 @@
 * [PojoViz](http://maurizzzio.github.io/PojoViz/public/vulcanize.html)
 * [Wijmo5](http://wijmo.com/5/)
 * [EmberJS](http://emberjs.com/)
+* [Aurelia](http://aurelia.io/)
 * [AngularJS](https://angularjs.org/)
 * [ReactJS](http://facebook.github.io/react/)
 * [Heatmap.js](http://www.patrick-wied.at/static/heatmapjs)
