@@ -160,6 +160,7 @@
 * [oclint](http://oclint.org/)
 * [cccc](http://cccc.sourceforge.net/)
 * [Coverity](http://www.coverity.com/)
+* [Linthub](https://linthub.io/)
 
 
 ### C / C++
