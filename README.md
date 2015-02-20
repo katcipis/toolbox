@@ -317,6 +317,7 @@
 * [DaemonTools](http://cr.yp.to/daemontools.html)
 * [Prometheus](http://prometheus.io/)
 * [SysDig](http://www.sysdig.org/)
+* [Performance Co Pilot](http://pcp.io/)
 
 
 ## Documentation
