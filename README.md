@@ -219,6 +219,11 @@
 * [Flyway](https://github.com/flyway/flyway)
 
 
+## Database schema visualization
+
+* [SchemaSpy](http://schemaspy.sourceforge.net/)
+
+
 ## Data Processing
 
 * [Hadoop](http://hadoop.apache.org/)
