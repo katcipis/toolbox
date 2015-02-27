@@ -230,6 +230,11 @@
 * [Spark](http://spark.apache.org/)
 
 
+### Extraction
+
+* [Scrapy](http://scrapy.org/)
+
+
 ### Searching
 
 * [Solr](http://lucene.apache.org/solr/)
