@@ -224,6 +224,11 @@
 * [Spark](http://spark.apache.org/)
 
 
+### Extraction
+
+* [Scrapy](http://scrapy.org/)
+
+
 ### Text Searching
 
 * [Solr](http://lucene.apache.org/solr/)
