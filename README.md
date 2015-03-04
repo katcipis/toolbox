@@ -4,6 +4,7 @@
 
 - [Tools](#tools)
   - [Specification languages](#specification-languages)
+  - [System Benchmarks](#system-benchmarks)
   - [Mobile](#mobile)
     - [Tests](#tests)
   - [Configuration](#configuration)
@@ -12,8 +13,7 @@
     - [Management/Planning](#managementplanning)
     - [Mocking](#mocking)
     - [Aggregation](#aggregation)
-  - [Code Review](#code-review)
-  - [DevOps](#devops)
+  - [Containers/Applications management](#containersapplications-management)
   - [Continuous Integration / Deployment](#continuous-integration--deployment)
   - [Static Analysis](#static-analysis)
     - [C / C++](#c--c)
@@ -21,18 +21,20 @@
   - [Profiling](#profiling)
     - [C/C++](#cc)
   - [Network](#network)
-  - [PAAS](#paas)
   - [Data Migration](#data-migration)
+  - [Database schema visualization](#database-schema-visualization)
   - [Data Processing](#data-processing)
-    - [Searching](#searching)
+    - [Text Searching](#text-searching)
     - [Streaming](#streaming)
     - [Logging](#logging)
     - [Analytics](#analytics)
-  - [Messaging systems](#messaging-systems)
+  - [Message Queue](#message-queue)
   - [Service Discovery](#service-discovery)
   - [Graphing](#graphing)
   - [Templating](#templating)
   - [Project Mangement](#project-mangement)
+    - [Services](#services)
+    - [Open Source](#open-source)
   - [Media Servers](#media-servers)
   - [VOIP](#voip)
   - [Monitoring](#monitoring)
@@ -126,14 +128,12 @@
 * [Preceptor](https://github.com/yahoo/preceptor)
 
 
-## Code Review
-
-* [Gerrit](https://code.google.com/p/gerrit/)
-
-
-## DevOps
+## Containers/Applications management
 
 * [Atomic](http://www.projectatomic.io/)
+* [Kubernetes](http://kubernetes.io/)
+* [Deis](http://deis.io/)
+* [Flynn](https://flynn.io/)
 
 
 ## Continuous Integration / Deployment
@@ -208,12 +208,6 @@
 * [Hydra](https://www.thc.org/thc-hydra/)
 
 
-## PAAS
-
-* [Deis](http://deis.io/)
-* [Flynn](https://flynn.io/)
-
-
 ## Data Migration
 
 * [Flyway](https://github.com/flyway/flyway)
@@ -230,7 +224,7 @@
 * [Spark](http://spark.apache.org/)
 
 
-### Searching
+### Text Searching
 
 * [Solr](http://lucene.apache.org/solr/)
 * [Presto](http://prestodb.io/)
@@ -257,7 +251,7 @@
 * [Inviso](https://github.com/Netflix/inviso)
 
 
-## Messaging systems
+## Message Queue
 
 * [Kafka](http://kafka.apache.org/)
 * [RabbitMQ](http://www.rabbitmq.com/)
