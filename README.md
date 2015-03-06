@@ -20,10 +20,12 @@
     - [Javascript](#javascript)
   - [Profiling](#profiling)
     - [C/C++](#cc)
+  - [Hacking Tools](#hacking-tools)
   - [Network](#network)
   - [Data Migration](#data-migration)
   - [Database schema visualization](#database-schema-visualization)
   - [Data Processing](#data-processing)
+    - [Extraction](#extraction)
     - [Text Searching](#text-searching)
     - [Streaming](#streaming)
     - [Logging](#logging)
@@ -189,6 +191,11 @@
 
 * [gperf](https://code.google.com/p/gperftools/)
 * [gprof](http://www.cs.utah.edu/dept/old/texinfo/as/gprof.html)
+
+
+## Hacking Tools
+
+* [Collection of tools](http://gexos.github.io/Hacking-Tools-Repository/)
 
 
 ## Network 
