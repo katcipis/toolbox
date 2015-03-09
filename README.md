@@ -546,3 +546,4 @@
 * [Sergio Prado](http://sergioprado.org/)
 * [Efetividade](http://efetividade.net/)
 * [Spotify](http://labs.spotify.com/)
+* [FreeBooks](https://github.com/vhf/free-programming-books)
