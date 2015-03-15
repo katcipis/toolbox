@@ -1,6 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Tools](#tools)
   - [Specification languages](#specification-languages)
@@ -17,6 +17,7 @@
   - [Continuous Integration / Deployment](#continuous-integration--deployment)
   - [Static Analysis](#static-analysis)
     - [C / C++](#c--c)
+    - [Python](#python)
     - [Javascript](#javascript)
   - [Profiling](#profiling)
     - [C/C++](#cc)
@@ -169,6 +170,13 @@
 * [SonarQube C++](https://github.com/wenns/sonar-cxx)
 * [cppcheck](http://cppcheck.sourceforge.net)
 * [splint](http://splint.org/)
+
+
+### Python
+
+* [pyflakes](https://github.com/pyflakes/pyflakes/)
+* [pylint](http://www.pylint.org/)
+* [pep9](https://github.com/jcrocholl/pep8)
 
 
 ### Javascript
