@@ -255,7 +255,9 @@
 
 ### Analytics
 
+* [Kibana](https://www.elastic.co/products/kibana)
 * [Logstash](http://www.logstash.net/)
+* [InfluxDB](http://influxdb.com/)
 * [Heka](https://github.com/mozilla-services/heka)
 * [Graylog2](http://graylog2.org/)
 * [Piwik](http://piwik.org/)
