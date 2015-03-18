@@ -223,6 +223,12 @@
 * [Hydra](https://www.thc.org/thc-hydra/)
 
 
+## Databases
+
+* [cockroach](https://github.com/cockroachdb/cockroach)
+* [arangodb](https://www.arangodb.com/)
+
+
 ## Data Migration
 
 * [Flyway](https://github.com/flyway/flyway)
@@ -258,7 +264,7 @@
 
 ### Logging
 
-* [BookKeeper](http://zookeeper.apache.org/bookkeeper/)
+* 
 
 
 ### Analytics
@@ -279,6 +285,7 @@
 * [RabbitMQ](http://www.rabbitmq.com/)
 * [0MQ](http://zeromq.org/)
 * [Iris](http://iris.karalabe.com/)
+* [NSQ](https://github.com/bitly/nsq)
 
 
 ## Service Discovery
