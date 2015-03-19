@@ -286,6 +286,7 @@
 * [0MQ](http://zeromq.org/)
 * [Iris](http://iris.karalabe.com/)
 * [NSQ](https://github.com/bitly/nsq)
+* [Celery](http://www.celeryproject.org/)
 
 
 ## Service Discovery
