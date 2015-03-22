@@ -23,6 +23,7 @@
     - [C/C++](#cc)
   - [Hacking Tools](#hacking-tools)
   - [Network](#network)
+  - [Databases](#databases)
   - [Data Migration](#data-migration)
   - [Database schema visualization](#database-schema-visualization)
   - [Data Processing](#data-processing)
@@ -30,7 +31,8 @@
     - [Text Searching](#text-searching)
     - [Streaming](#streaming)
     - [Logging](#logging)
-    - [Analytics](#analytics)
+      - [Aggregator](#aggregator)
+      - [Analytics](#analytics)
   - [Message Queue](#message-queue)
   - [Service Discovery](#service-discovery)
   - [Graphing](#graphing)
@@ -42,7 +44,7 @@
   - [VOIP](#voip)
   - [Monitoring](#monitoring)
   - [Documentation](#documentation)
-    - [Presentations](#presentations)
+  - [Presentations](#presentations)
   - [Deploy](#deploy)
   - [Web](#web)
     - [Maps](#maps)
@@ -264,15 +266,22 @@
 
 ### Logging
 
-* 
+
+#### Aggregator
+
+* [FluentD](http://www.fluentd.org/)
+* [Chukwa](http://chukwa.apache.org/)
+* [Heka](https://github.com/mozilla-services/heka)
+* [InfluxDB](http://influxdb.com/)
+* [Riemann](http://riemann.io/)
+* [Flume](http://flume.apache.org/)
 
 
-### Analytics
+#### Analytics
 
+* [Sentry](https://www.getsentry.com/welcome/)
 * [Kibana](https://www.elastic.co/products/kibana)
 * [Logstash](http://www.logstash.net/)
-* [InfluxDB](http://influxdb.com/)
-* [Heka](https://github.com/mozilla-services/heka)
 * [Graylog2](http://graylog2.org/)
 * [Piwik](http://piwik.org/)
 * [SnowPlow](http://snowplowanalytics.com/)
