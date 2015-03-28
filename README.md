@@ -40,8 +40,6 @@
   - [Project Mangement](#project-mangement)
     - [Services](#services)
     - [Open Source](#open-source)
-  - [Media Servers](#media-servers)
-  - [VOIP](#voip)
   - [Monitoring](#monitoring)
   - [Documentation](#documentation)
   - [Presentations](#presentations)
@@ -55,17 +53,13 @@
     - [Integration Contract Test](#integration-contract-test)
     - [Documentation](#documentation-1)
     - [Security](#security)
-    - [Scaffolding](#scaffolding)
   - [Automation](#automation)
   - [Diagrams](#diagrams)
     - [UML](#uml)
   - [UI Prototyping](#ui-prototyping)
   - [Disk Recovery](#disk-recovery)
-  - [Media Center](#media-center)
 - [Books / Articles](#books--articles)
-  - [Git](#git)
   - [Autotools](#autotools)
-- [Conferences](#conferences)
 - [Courses](#courses)
 - [Podcasts](#podcasts)
 - [Screencasts](#screencasts)
@@ -333,18 +327,6 @@
 * [LibreBoard](https://github.com/libreboard/libreboard)
 
 
-## Media Servers
-
-* [Kurento](http://www.kurento.org)
-* [gst-streaming-server](http://gstreamer.freedesktop.org/modules/gst-streaming-server.html)
-
-
-## VOIP
-
-* [PESQ](http://www.pesq.org/)
-* [sipp](http://sipp.sourceforge.net/)
-
-
 ## Monitoring
 
 * [Zabbix](http://www.zabbix.com/)
@@ -383,7 +365,6 @@
 
 ## Web
 
-
 ### Maps
 
 * [TileMill](https://www.mapbox.com/tilemill/)
@@ -407,9 +388,7 @@
 * [Goo](http://www.goocreate.com/)
 * [PojoViz](http://maurizzzio.github.io/PojoViz/public/vulcanize.html)
 * [Wijmo5](http://wijmo.com/5/)
-* [EmberJS](http://emberjs.com/)
 * [Aurelia](http://aurelia.io/)
-* [AngularJS](https://angularjs.org/)
 * [ReactJS](http://facebook.github.io/react/)
 * [Heatmap.js](http://www.patrick-wied.at/static/heatmapjs)
 * [Browserify](http://browserify.org/)
@@ -441,7 +420,6 @@
 
 ### Documentation
 
-
 * [RAML](http://raml.org/)
 * [Swagger](https://helloreverb.com/developers/swagger)
 * [API Blueprint](http://apiblueprint.org/)
@@ -462,16 +440,11 @@
 * [GuardianJS](http://guardianjs.com/)
 
 
-### Scaffolding
-
-* [Yeoman](http://yeoman.io/)
-
-
 ## Automation
 
 * [The foreman](http://theforeman.org/)
 * [SaltStack](http://www.saltstack.com/)
-* [Ansible](http://www.ansible.com/
+* [Ansible](http://www.ansible.com/)
 
 
 ## Diagrams
@@ -502,31 +475,13 @@
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk)
 
 
-## Media Center
-
-* [Kodi](http://xbmc.org/)
-
-
 # Books / Articles
-
-## Git 
-
-* [Git hooks](http://githooks.com/)
-
 
 ## Autotools
 
 * [Autotools Mythbuster](https://www.flameeyes.eu/autotools-mythbuster/)
 * [Autobook](https://www.sourceware.org/autobook/autobook/autobook.html)
 * [Autotools presentation](https://www.lrde.epita.fr/~adl/dl/autotools.pdf)
-
-
-#Conferences 
-
-* [GStreamer](http://gstconf.ubicast.tv/)
-* [ELCE](http://events.linuxfoundation.org/events/embedded-linux-conference-europe)
-* [ESC](http://www.escbrazil.com.br)
-* [CONADEV](http://www.conadev.com/)
 
 
 #Courses 
