@@ -235,33 +235,19 @@
 * [SchemaSpy](http://schemaspy.sourceforge.net/)
 
 
-## Data Processing
+## Data Analysis
 
-* [Hadoop](http://hadoop.apache.org/)
-* [Spark](http://spark.apache.org/)
-
-
-### Extraction
-
-* [Scrapy](http://scrapy.org/)
+* [Pandas](http://pandas.pydata.org/)
 
 
 ### Text Searching
 
-* [Solr](http://lucene.apache.org/solr/)
 * [Presto](http://prestodb.io/)
 
 
-### Streaming
+## Logging
 
-* [Samza](http://samza.incubator.apache.org/)
-* [Storm](http://storm.incubator.apache.org/)
-
-
-### Logging
-
-
-#### Aggregator
+### Aggregator
 
 * [FluentD](http://www.fluentd.org/)
 * [Chukwa](http://chukwa.apache.org/)
@@ -271,7 +257,7 @@
 * [Flume](http://flume.apache.org/)
 
 
-#### Analytics
+### Analytics
 
 * [Sentry](https://www.getsentry.com/welcome/)
 * [Kibana](https://www.elastic.co/products/kibana)
