@@ -219,6 +219,11 @@
 * [Hydra](https://www.thc.org/thc-hydra/)
 
 
+## Docker data volume management
+
+* [Flocker](https://github.com/clusterhq/flocker)
+
+
 ## Databases
 
 * [cockroach](https://github.com/cockroachdb/cockroach)
