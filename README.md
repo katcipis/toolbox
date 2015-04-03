@@ -23,16 +23,15 @@
     - [C/C++](#cc)
   - [Hacking Tools](#hacking-tools)
   - [Network](#network)
+  - [Docker data volume management](#docker-data-volume-management)
   - [Databases](#databases)
   - [Data Migration](#data-migration)
   - [Database schema visualization](#database-schema-visualization)
-  - [Data Processing](#data-processing)
-    - [Extraction](#extraction)
+  - [Data Analysis](#data-analysis)
     - [Text Searching](#text-searching)
-    - [Streaming](#streaming)
-    - [Logging](#logging)
-      - [Aggregator](#aggregator)
-      - [Analytics](#analytics)
+  - [Logging](#logging)
+    - [Aggregator](#aggregator)
+    - [Analytics](#analytics)
   - [Message Queue](#message-queue)
   - [Service Discovery](#service-discovery)
   - [Graphing](#graphing)
@@ -43,6 +42,7 @@
   - [Monitoring](#monitoring)
   - [Documentation](#documentation)
   - [Presentations](#presentations)
+  - [Software Defined Network](#software-defined-network)
   - [Deploy](#deploy)
   - [Web](#web)
     - [Maps](#maps)
@@ -58,8 +58,6 @@
     - [UML](#uml)
   - [UI Prototyping](#ui-prototyping)
   - [Disk Recovery](#disk-recovery)
-- [Books / Articles](#books--articles)
-  - [Autotools](#autotools)
 - [Courses](#courses)
 - [Podcasts](#podcasts)
 - [Screencasts](#screencasts)
@@ -348,6 +346,13 @@
 * [dzslides](http://paulrouget.com/dzslides/)
 
 
+## Software Defined Network
+
+* [Calico](http://www.projectcalico.org/)
+* [Weave](https://github.com/zettio/weave)
+* [Flannel](https://github.com/coreos/flannel)
+
+
 ## Deploy
 
 * [Packer](http://www.packer.io/)
@@ -464,15 +469,6 @@
 ## Disk Recovery
 
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk)
-
-
-# Books / Articles
-
-## Autotools
-
-* [Autotools Mythbuster](https://www.flameeyes.eu/autotools-mythbuster/)
-* [Autobook](https://www.sourceware.org/autobook/autobook/autobook.html)
-* [Autotools presentation](https://www.lrde.epita.fr/~adl/dl/autotools.pdf)
 
 
 #Courses 
