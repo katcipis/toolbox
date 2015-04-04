@@ -436,6 +436,12 @@
 * [GuardianJS](http://guardianjs.com/)
 
 
+## PaaS
+
+* [OpenShift V3](https://www.openshift.com/)
+* [Tsuru](https://tsuru.io/)
+
+
 ## Automation
 
 * [The foreman](http://theforeman.org/)
