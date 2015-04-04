@@ -53,6 +53,7 @@
     - [Integration Contract Test](#integration-contract-test)
     - [Documentation](#documentation-1)
     - [Security](#security)
+  - [PaaS](#paas)
   - [Automation](#automation)
   - [Diagrams](#diagrams)
     - [UML](#uml)
