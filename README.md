@@ -352,6 +352,7 @@
 * [Calico](http://www.projectcalico.org/)
 * [Weave](https://github.com/zettio/weave)
 * [Flannel](https://github.com/coreos/flannel)
+* [Pipework](https://github.com/jpetazzo/pipework)
 
 
 ## Deploy
