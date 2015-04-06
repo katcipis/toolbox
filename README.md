@@ -4,11 +4,8 @@
 
 - [Tools](#tools)
   - [Specification languages](#specification-languages)
-  - [System Benchmarks](#system-benchmarks)
   - [Mobile](#mobile)
     - [Tests](#tests)
-  - [Configuration](#configuration)
-    - [Interactive maps](#interactive-maps)
   - [Testing](#testing)
     - [Management/Planning](#managementplanning)
     - [Mocking](#mocking)
@@ -19,7 +16,8 @@
     - [C / C++](#c--c)
     - [Python](#python)
     - [Javascript](#javascript)
-  - [Profiling](#profiling)
+  - [Profiling / Monitoring / Analytics](#profiling--monitoring--analytics)
+    - [DBus](#dbus)
     - [C/C++](#cc)
   - [Hacking Tools](#hacking-tools)
   - [Network](#network)
@@ -74,11 +72,6 @@
 * [TLA](http://research.microsoft.com/en-us/um/people/lamport/tla/tla.html)
 
 
-## System Benchmarks
-
-* [Phoronix Test Suite](https://github.com/phoronix-test-suite/phoronix-test-suite/)
-
-
 ## Mobile
 
 * [Flurry Analytics](http://www.flurry.com/solutions/analytics)
@@ -94,16 +87,6 @@
 
 * [Calabash](http://calaba.sh/)
 * [Robolectric](http://robolectric.org/)
-
-
-## Configuration
-
-* [escservesconfig](https://code.google.com/p/escservesconfig/)
-
-
-### Interactive maps
-
-* [Leaflet](http://leafletjs.com/)
 
 
 ## Testing
@@ -179,15 +162,19 @@
 * [Flow](http://flowtype.org/)
 
 
-## Profiling
+## Profiling / Monitoring / Analytics
 
 * [DTrace](http://dtrace.org/blogs/)
 * [System tap](https://sourceware.org/systemtap/)
-* [htop](http://hisham.hm/htop/)
+* [osquery](https://github.com/facebook/osquery)
+* [envdb](https://github.com/mephux/envdb)
 * [OProfile](http://oprofile.sourceforge.net/about/)
 * [KCacheGrind](http://kcachegrind.sourceforge.net/html/Home.html)
+
+
+### DBus
+
 * [Bustle](http://www.willthompson.co.uk/bustle/)
-* [gperftools](https://code.google.com/p/gperftools/)
 
 
 ### C/C++
@@ -329,6 +316,7 @@
 * [Prometheus](http://prometheus.io/)
 * [SysDig](http://www.sysdig.org/)
 * [Performance Co Pilot](http://pcp.io/)
+* [CachetHQ](https://cachethq.io/)
 
 
 ## Documentation
