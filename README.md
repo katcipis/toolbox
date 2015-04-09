@@ -385,16 +385,21 @@
 * [ReactJS](http://facebook.github.io/react/)
 * [Heatmap.js](http://www.patrick-wied.at/static/heatmapjs)
 * [Browserify](http://browserify.org/)
-* [PouchDB](http://pouchdb.com/)
-* [ForerunnerDB](http://www.forerunnerdb.com/)
 * [Phaser](http://phaser.io/)
 * [Web Starter Kit](https://developers.google.com/web/starter-kit/)
 * [Meteor](https://www.meteor.com/)
+* [D3JS](http://d3js.org/)
+
+
+#### Databases
+
+* [PouchDB](http://pouchdb.com/)
+* [ForerunnerDB](http://www.forerunnerdb.com/)
 
 
 #### Acceptance/Unit tests
 
-* [selenium](http://www.seleniumhq.org/)
+* [Selenium](http://www.seleniumhq.org/)
 * [PhantomJS](http://phantomjs.org/)
 * [Pioneer](http://pioneerjs.com/)
 * [Protractor](https://github.com/angular/protractor)
