@@ -335,6 +335,7 @@
 ## Documentation
 
 * [Read the docs](https://readthedocs.org/)
+* [MKDocs](http://www.mkdocs.org/)
 * [Github pages](https://pages.github.com/)
 * [Document-Bootstrap](http://gregfranko.com/Document-Bootstrap/)
 * [Dexy](http://www.dexy.it/)
