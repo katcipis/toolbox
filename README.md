@@ -2,77 +2,74 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Tools](#tools)
-  - [Specification languages](#specification-languages)
-  - [Mobile](#mobile)
-    - [Tests](#tests)
-  - [Testing](#testing)
-    - [Management/Planning](#managementplanning)
-    - [Mocking](#mocking)
-    - [Aggregation](#aggregation)
-  - [Containers/Applications management](#containersapplications-management)
-  - [Continuous Integration / Deployment](#continuous-integration--deployment)
-  - [Static Analysis](#static-analysis)
-    - [C / C++](#c--c)
-    - [Python](#python)
-    - [Javascript](#javascript)
-  - [Profiling / Monitoring / Analytics](#profiling--monitoring--analytics)
-    - [DBus](#dbus)
-    - [C/C++](#cc)
-  - [Hacking Tools](#hacking-tools)
-  - [Network](#network)
-  - [Docker data volume management](#docker-data-volume-management)
-  - [Databases](#databases)
-  - [Data Migration](#data-migration)
-  - [Database schema visualization](#database-schema-visualization)
-  - [Data Analysis](#data-analysis)
-    - [Text Searching](#text-searching)
-  - [Logging](#logging)
-    - [Aggregator](#aggregator)
-    - [Analytics](#analytics)
-  - [Message Queue](#message-queue)
-  - [Service Discovery](#service-discovery)
-  - [Graphing](#graphing)
-  - [Templating](#templating)
-  - [Project Mangement](#project-mangement)
-    - [Services](#services)
-    - [Open Source](#open-source)
-  - [Monitoring](#monitoring)
-  - [Documentation](#documentation)
-  - [Presentations](#presentations)
-  - [Software Defined Network](#software-defined-network)
-  - [Deploy](#deploy)
-  - [Web](#web)
-    - [Maps](#maps)
-    - [Performance/Load tests](#performanceload-tests)
-    - [Frontend](#frontend)
-      - [Acceptance/Unit tests](#acceptanceunit-tests)
-    - [Backend](#backend)
-    - [Integration Contract Test](#integration-contract-test)
-    - [Documentation](#documentation-1)
-    - [Security](#security)
-  - [PaaS](#paas)
-  - [Automation](#automation)
-  - [Diagrams](#diagrams)
-    - [UML](#uml)
-  - [UI Prototyping](#ui-prototyping)
-  - [Disk Recovery](#disk-recovery)
-- [Courses](#courses)
-- [Podcasts](#podcasts)
-- [Screencasts](#screencasts)
-- [Blogs](#blogs)
+- [Specification languages](#specification-languages)
+- [Mobile](#mobile)
+  - [Tests](#tests)
+- [Testing](#testing)
+  - [Management/Planning](#managementplanning)
+  - [Mocking](#mocking)
+  - [Aggregation](#aggregation)
+- [Containers/Applications management](#containersapplications-management)
+- [Continuous Integration / Deployment](#continuous-integration--deployment)
+- [Static Analysis](#static-analysis)
+  - [C / C++](#c--c)
+  - [Python](#python)
+  - [Javascript](#javascript)
+- [Profiling / Monitoring / Analytics](#profiling--monitoring--analytics)
+  - [DBus](#dbus)
+  - [C/C++](#cc)
+- [Hacking Tools](#hacking-tools)
+- [Network](#network)
+- [Docker](#docker)
+  - [Orchestration](#orchestration)
+  - [Data volume management](#data-volume-management)
+- [Databases](#databases)
+- [Data Migration](#data-migration)
+- [Database schema visualization](#database-schema-visualization)
+- [Data Analysis](#data-analysis)
+  - [Text Searching](#text-searching)
+- [Logging](#logging)
+  - [Aggregator](#aggregator)
+  - [Analytics](#analytics)
+- [Message Queue](#message-queue)
+- [Service Discovery](#service-discovery)
+- [Graphing](#graphing)
+- [Templating](#templating)
+- [Project Mangement](#project-mangement)
+  - [Services](#services)
+  - [Open Source](#open-source)
+- [Monitoring](#monitoring)
+- [Documentation](#documentation)
+- [Presentations](#presentations)
+- [Software Defined Network](#software-defined-network)
+- [Deploy](#deploy)
+- [Web](#web)
+  - [Maps](#maps)
+  - [Performance/Load tests](#performanceload-tests)
+  - [Frontend](#frontend)
+    - [Databases](#databases-1)
+    - [Acceptance/Unit tests](#acceptanceunit-tests)
+  - [Backend](#backend)
+  - [Integration Contract Test](#integration-contract-test)
+  - [Documentation](#documentation-1)
+  - [Security](#security)
+- [PaaS](#paas)
+- [Automation](#automation)
+- [Diagrams](#diagrams)
+  - [UML](#uml)
+- [UI Prototyping](#ui-prototyping)
+- [Disk Recovery](#disk-recovery)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-#Tools
 
 
-## Specification languages
+# Specification languages
 
 * [TLA](http://research.microsoft.com/en-us/um/people/lamport/tla/tla.html)
 
 
-## Mobile
+# Mobile
 
 * [Flurry Analytics](http://www.flurry.com/solutions/analytics)
 * [Phone Gap](http://phonegap.com/)
@@ -83,33 +80,33 @@
 * [App Inventor](http://appinventor.mit.edu/explore/)
 
 
-### Tests
+## Tests
 
 * [Calabash](http://calaba.sh/)
 * [Robolectric](http://robolectric.org/)
 
 
-## Testing
+# Testing
 
-### Management/Planning
+## Management/Planning
 
 * [Testopia](https://developer.mozilla.org/en-US/docs/Mozilla/Bugzilla/Testopia)
 * [GTA](https://code.google.com/p/test-analytics/)
 * [Tarantula](http://www.testiatarantula.com/)
 
 
-### Mocking
+## Mocking
 
 * [Mountebank](http://www.mbtest.org/)
 * [VCR](https://github.com/vcr/vcr)
 
 
-### Aggregation
+## Aggregation
 
 * [Preceptor](https://github.com/yahoo/preceptor)
 
 
-## Containers/Applications management
+# Containers/Applications management
 
 * [Atomic](http://www.projectatomic.io/)
 * [Kubernetes](http://kubernetes.io/)
@@ -117,7 +114,7 @@
 * [Flynn](https://flynn.io/)
 
 
-## Continuous Integration / Deployment
+# Continuous Integration / Deployment
 
 * [Snap](https://snap-ci.com/)
 * [Strider CD](http://stridercd.com/)
@@ -130,7 +127,7 @@
 * [CircleCI](https://circleci.com/)
 
 
-## Static Analysis
+# Static Analysis
 
 * [Simian](http://www.harukizaemon.com/simian/)
 * [PMD](http://pmd.sourceforge.net/)
@@ -143,26 +140,26 @@
 * [Linthub](https://linthub.io/)
 
 
-### C / C++
+## C / C++
 
 * [SonarQube C++](https://github.com/wenns/sonar-cxx)
 * [cppcheck](http://cppcheck.sourceforge.net)
 * [splint](http://splint.org/)
 
 
-### Python
+## Python
 
 * [pyflakes](https://github.com/pyflakes/pyflakes/)
 * [pylint](http://www.pylint.org/)
 * [pep9](https://github.com/jcrocholl/pep8)
 
 
-### Javascript
+## Javascript
 
 * [Flow](http://flowtype.org/)
 
 
-## Profiling / Monitoring / Analytics
+# Profiling / Monitoring / Analytics
 
 * [DTrace](http://dtrace.org/blogs/)
 * [System tap](https://sourceware.org/systemtap/)
@@ -172,23 +169,23 @@
 * [KCacheGrind](http://kcachegrind.sourceforge.net/html/Home.html)
 
 
-### DBus
+## DBus
 
 * [Bustle](http://www.willthompson.co.uk/bustle/)
 
 
-### C/C++
+## C/C++
 
 * [gperf](https://code.google.com/p/gperftools/)
 * [gprof](http://www.cs.utah.edu/dept/old/texinfo/as/gprof.html)
 
 
-## Hacking Tools
+# Hacking Tools
 
 * [Collection of tools](http://gexos.github.io/Hacking-Tools-Repository/)
 
 
-## Network 
+# Network 
 
 * [Cacti](http://www.cacti.net/)
 * [MRTG](http://oss.oetiker.ch/mrtg/)
@@ -205,47 +202,47 @@
 * [Hydra](https://www.thc.org/thc-hydra/)
 
 
-## Docker 
+# Docker 
 
-### Orchestration
+## Orchestration
 
 * [Maestro-ng](https://github.com/signalfuse/maestro-ng)
 
 
-### Data volume management
+## Data volume management
 
 * [Flocker](https://github.com/clusterhq/flocker)
 
 
-## Databases
+# Databases
 
 * [cockroach](https://github.com/cockroachdb/cockroach)
 * [arangodb](https://www.arangodb.com/)
 
 
-## Data Migration
+# Data Migration
 
 * [Flyway](https://github.com/flyway/flyway)
 
 
-## Database schema visualization
+# Database schema visualization
 
 * [SchemaSpy](http://schemaspy.sourceforge.net/)
 
 
-## Data Analysis
+# Data Analysis
 
 * [Pandas](http://pandas.pydata.org/)
 
 
-### Text Searching
+## Text Searching
 
 * [Presto](http://prestodb.io/)
 
 
-## Logging
+# Logging
 
-### Aggregator
+## Aggregator
 
 * [FluentD](http://www.fluentd.org/)
 * [Chukwa](http://chukwa.apache.org/)
@@ -255,7 +252,7 @@
 * [Flume](http://flume.apache.org/)
 
 
-### Analytics
+## Analytics
 
 * [Sentry](https://www.getsentry.com/welcome/)
 * [Kibana](https://www.elastic.co/products/kibana)
@@ -266,7 +263,7 @@
 * [Inviso](https://github.com/Netflix/inviso)
 
 
-## Message Queue
+# Message Queue
 
 * [Kafka](http://kafka.apache.org/)
 * [RabbitMQ](http://www.rabbitmq.com/)
@@ -276,26 +273,26 @@
 * [Celery](http://www.celeryproject.org/)
 
 
-## Service Discovery
+# Service Discovery
 
 * [Consul.io](https://consul.io/)
 
 
-## Graphing
+# Graphing
 
 * [RRDtool](http://oss.oetiker.ch/rrdtool/)
 * [Graphite](http://graphite.wikidot.com/)
 * [Grafana](http://grafana.org/)
 
 
-## Templating
+# Templating
 
 * [Jinja](http://jinja.pocoo.org/)
 
 
-## Project Mangement
+# Project Mangement
 
-### Services
+## Services
 
 * [Mingle](http://getmingle.io/mingle.html)
 * [Pivotal](http://www.pivotaltracker.com/)
@@ -305,13 +302,13 @@
 * [Taiga.io](https://taiga.io/)
 
 
-### Open Source
+## Open Source
 
 * [Phabricator](http://phabricator.org/)
 * [LibreBoard](https://github.com/libreboard/libreboard)
 
 
-## Monitoring
+# Monitoring
 
 * [Zabbix](http://www.zabbix.com/)
 * [Monit](https://mmonit.com/monit/)
@@ -326,7 +323,7 @@
 * [CachetHQ](https://cachethq.io/)
 
 
-## Documentation
+# Documentation
 
 * [Read the docs](https://readthedocs.org/)
 * [Github pages](https://pages.github.com/)
@@ -335,14 +332,14 @@
 * [Pandoc](http://johnmacfarlane.net/pandoc/)
 
 
-## Presentations
+# Presentations
 
 * [mdp](https://github.com/visit1985/mdp)
 * [reveal.js](http://lab.hakim.se/reveal-js)
 * [dzslides](http://paulrouget.com/dzslides/)
 
 
-## Software Defined Network
+# Software Defined Network
 
 * [Calico](http://www.projectcalico.org/)
 * [Weave](https://github.com/zettio/weave)
@@ -350,22 +347,22 @@
 * [Pipework](https://github.com/jpetazzo/pipework)
 
 
-## Deploy
+# Deploy
 
 * [Packer](http://www.packer.io/)
 * [Omnibus](https://github.com/opscode/omnibus)
 
 
-## Web
+# Web
 
-### Maps
+## Maps
 
 * [TileMill](https://www.mapbox.com/tilemill/)
 * [OpenStreetMap](http://www.openstreetmap.org/)
 * [CartoDB](http://cartodb.com/)
 
 
-### Performance/Load tests
+## Performance/Load tests
 
 * [JMeter](http://jmeter.apache.org/)
 * [Gatling](http://gatling-tool.org/)
@@ -376,7 +373,7 @@
 * [Bees with machine guns](https://github.com/newsapps/beeswithmachineguns)
 
 
-### Frontend
+## Frontend
 
 * [Goo](http://www.goocreate.com/)
 * [PojoViz](http://maurizzzio.github.io/PojoViz/public/vulcanize.html)
@@ -391,13 +388,13 @@
 * [D3JS](http://d3js.org/)
 
 
-#### Databases
+### Databases
 
 * [PouchDB](http://pouchdb.com/)
 * [ForerunnerDB](http://www.forerunnerdb.com/)
 
 
-#### Acceptance/Unit tests
+### Acceptance/Unit tests
 
 * [Selenium](http://www.seleniumhq.org/)
 * [PhantomJS](http://phantomjs.org/)
@@ -405,18 +402,18 @@
 * [Protractor](https://github.com/angular/protractor)
 
 
-### Backend
+## Backend
 
 * [OpenResty](http://openresty.org/)
 
 
-### Integration Contract Test
+## Integration Contract Test
 
 * [Pacto](http://thoughtworks.github.io/pacto/)
 * [Pact](https://github.com/realestate-com-au/pact)
 
 
-### Documentation
+## Documentation
 
 * [RAML](http://raml.org/)
 * [Swagger](https://helloreverb.com/developers/swagger)
@@ -426,7 +423,7 @@
 * [iodocs](https://github.com/mashery/iodocs)
 
 
-### Security
+## Security
 
 * [Kerberos](http://web.mit.edu/kerberos/)
 * [Central Authentication Service](https://wiki.jasig.org/display/CAS/Home)
@@ -438,20 +435,20 @@
 * [GuardianJS](http://guardianjs.com/)
 
 
-## PaaS
+# PaaS
 
 * [OpenShift V3](https://www.openshift.com/)
 * [Tsuru](https://tsuru.io/)
 
 
-## Automation
+# Automation
 
 * [The foreman](http://theforeman.org/)
 * [SaltStack](http://www.saltstack.com/)
 * [Ansible](http://www.ansible.com/)
 
 
-## Diagrams
+# Diagrams
 
 * [Inkscape](http://inkscape.org/en/)
 * [Sequence Diagrams](https://www.websequencediagrams.com/)
@@ -459,7 +456,7 @@
 * [Draw.io](https://www.draw.io/)
 
 
-### UML
+## UML
 
 * [yUML](http://yuml.me/)
 * [Argo](http://argouml.tigris.org/)
@@ -468,59 +465,12 @@
 * [Astah](http://astah.net/)
 
 
-## UI Prototyping
+# UI Prototyping
 
 * [Pencil](http://pencil.evolus.vn/Default.html)
 * [POP](https://popapp.in/)
 
 
-## Disk Recovery
+# Disk Recovery
 
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk)
-
-
-#Courses 
-
-* [Coursera](https://www.coursera.org/)
-* [Edx](https://www.edx.org/)
-* [IBM Big Data University](http://bigdatauniversity.com/)
-* [MIT](http://ocw.mit.edu/index.htm)
-* [Khan](https://www.khanacademy.org/)
-* [The Pragmatic Studio](http://pragmaticstudio.com/)
-* [Lynda](http://www.lynda.com/)
-* [Harvard CS50](https://manual.cs50.net/seminars/)
-* [Skillshare](http://www.skillshare.com/)
-* [CreativeLive](https://www.creativelive.com/)
-
-
-#Podcasts
-
-* [DevChat](http://devchat.tv/)
-* [Grok](http://www.grokpodcast.com/)
-* [SE Radio](http://www.se-radio.net/)
-* [Elegant Code](http://elegantcode.com/)
-* [Free Electrons](http://free-electrons.com/docs/)
-
-
-#Screencasts
-
-* [Destroy all software](https://www.destroyallsoftware.com/screencasts/catalog)
-* [Clean Coders](https://cleancoders.com/)
-* [8th light University](http://university.8thlight.com/)
-
-
-#Blogs 
-
-* [Netflix](http://techblog.netflix.com/)
-* [Crockford on Javascript](http://yuiblog.com/crockford/)
-* [More Crockford :-)](http://javascript.crockford.com/)
-* [SuperheroJS](http://superherojs.com/)
-* [Free electrons](http://free-electrons.com/blog/)
-* [8th Light](http://blog.8thlight.com/)
-* [Clean coder](http://blog.cleancoder.com/)
-* [James Greening](http://www.renaissancesoftware.net/blog/)
-* [Thoughtworks](http://www.thoughtworks.com/insights)
-* [Sergio Prado](http://sergioprado.org/)
-* [Efetividade](http://efetividade.net/)
-* [Spotify](http://labs.spotify.com/)
-* [FreeBooks](https://github.com/vhf/free-programming-books)
