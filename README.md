@@ -60,6 +60,7 @@
   - [UML](#uml)
 - [UI Prototyping](#ui-prototyping)
 - [Disk Recovery](#disk-recovery)
+- [Deep Neural Networks](#deep-neural-networks)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -481,3 +482,9 @@
 # Disk Recovery
 
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk)
+
+
+# Deep Neural Networks
+
+* [dnngraph](https://github.com/ajtulloch/dnngraph)
+* [Caffe](http://caffe.berkeleyvision.org/)
