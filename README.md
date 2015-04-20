@@ -30,6 +30,7 @@
   - [Text Searching](#text-searching)
 - [Logging](#logging)
   - [Aggregator](#aggregator)
+  - [Dashboard](#dashboard)
   - [Analytics](#analytics)
 - [Message Queue](#message-queue)
 - [Service Discovery](#service-discovery)
@@ -98,6 +99,7 @@
 ## Mocking
 
 * [Mountebank](http://www.mbtest.org/)
+* [Toxiproxy](https://github.com/shopify/toxiproxy)
 * [VCR](https://github.com/vcr/vcr)
 
 
@@ -250,14 +252,17 @@
 * [InfluxDB](http://influxdb.com/)
 * [Riemann](http://riemann.io/)
 * [Flume](http://flume.apache.org/)
+* [Logstash](http://www.logstash.net/)
 
+
+## Dashboard
+
+* [Kibana](https://www.elastic.co/products/kibana)
+* [Graylog2](http://graylog2.org/)
 
 ## Analytics
 
 * [Sentry](https://www.getsentry.com/welcome/)
-* [Kibana](https://www.elastic.co/products/kibana)
-* [Logstash](http://www.logstash.net/)
-* [Graylog2](http://graylog2.org/)
 * [Piwik](http://piwik.org/)
 * [SnowPlow](http://snowplowanalytics.com/)
 * [Inviso](https://github.com/Netflix/inviso)
@@ -321,11 +326,13 @@
 * [SysDig](http://www.sysdig.org/)
 * [Performance Co Pilot](http://pcp.io/)
 * [CachetHQ](https://cachethq.io/)
+* [StatusPage](https://www.statuspage.io/)
 
 
 # Documentation
 
 * [Read the docs](https://readthedocs.org/)
+* [MKDocs](http://www.mkdocs.org/)
 * [Github pages](https://pages.github.com/)
 * [Document-Bootstrap](http://gregfranko.com/Document-Bootstrap/)
 * [Dexy](http://www.dexy.it/)
