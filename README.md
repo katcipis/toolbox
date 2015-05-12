@@ -16,6 +16,7 @@
   - [Python](#python)
   - [Javascript](#javascript)
 - [Profiling / Monitoring / Analytics](#profiling--monitoring--analytics)
+  - [MongoDB](#mongodb)
   - [DBus](#dbus)
   - [C/C++](#cc)
 - [Hacking Tools](#hacking-tools)
@@ -60,7 +61,7 @@
   - [UML](#uml)
 - [UI Prototyping](#ui-prototyping)
 - [Disk Recovery](#disk-recovery)
-- [Deep Neural Networks](#deep-neural-networks)
+- [Deep Learning](#deep-learning)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -491,7 +492,8 @@
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk)
 
 
-# Deep Neural Networks
+# Deep Learning
 
+* [Keras](http://keras.io/)
 * [dnngraph](https://github.com/ajtulloch/dnngraph)
 * [Caffe](http://caffe.berkeleyvision.org/)
