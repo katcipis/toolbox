@@ -298,11 +298,6 @@
 * [Grafana](http://grafana.org/)
 
 
-# Templating
-
-* [Jinja](http://jinja.pocoo.org/)
-
-
 # Project Mangement
 
 ## Services
@@ -335,6 +330,7 @@
 * [Performance Co Pilot](http://pcp.io/)
 * [CachetHQ](https://cachethq.io/)
 * [StatusPage](https://www.statuspage.io/)
+* [cAdvisor](https://github.com/google/cadvisor)
 
 
 # Documentation
