@@ -489,7 +489,13 @@
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk)
 
 
-# Deep Learning
+# Machine Learning
+
+## Distributed
+
+* [Petuum](http://petuum.github.io/)
+
+## Deep Learning
 
 * [Keras](http://keras.io/)
 * [dnngraph](https://github.com/ajtulloch/dnngraph)
