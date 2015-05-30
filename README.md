@@ -219,6 +219,12 @@
 * [Maestro-ng](https://github.com/signalfuse/maestro-ng)
 
 
+## Monitoring
+
+* [cAdvisor](https://github.com/google/cadvisor)
+* [docker-mon](https://github.com/icecrime/docker-mon)
+
+
 ## Data volume management
 
 * [Flocker](https://github.com/clusterhq/flocker)
@@ -349,6 +355,11 @@
 * [reveal.js](http://lab.hakim.se/reveal-js)
 * [dzslides](http://paulrouget.com/dzslides/)
 * [Go Present](https://godoc.org/golang.org/x/tools/cmd/present)
+
+
+# Cluster Management
+
+# [Mesos](http://mesos.apache.org/)
 
 
 # Software Defined Network
