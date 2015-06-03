@@ -234,6 +234,7 @@
 
 * [cockroach](https://github.com/cockroachdb/cockroach)
 * [arangodb](https://www.arangodb.com/)
+* [blinkdb](http://blinkdb.org/)
 
 
 # Data Migration
