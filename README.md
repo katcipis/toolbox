@@ -505,9 +505,12 @@
 
 # Machine Learning
 
+
 ## Distributed
 
 * [Petuum](http://petuum.github.io/)
+* [PredictionIO](https://docs.prediction.io/)
+
 
 ## Deep Learning
 
