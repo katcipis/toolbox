@@ -23,6 +23,7 @@
 - [Network](#network)
 - [Docker](#docker)
   - [Orchestration](#orchestration)
+  - [Monitoring](#monitoring)
   - [Data volume management](#data-volume-management)
 - [Databases](#databases)
 - [Data Migration](#data-migration)
@@ -36,13 +37,14 @@
 - [Message Queue](#message-queue)
 - [Service Discovery](#service-discovery)
 - [Graphing](#graphing)
-- [Templating](#templating)
 - [Project Mangement](#project-mangement)
   - [Services](#services)
   - [Open Source](#open-source)
-- [Monitoring](#monitoring)
+- [Monitoring](#monitoring-1)
 - [Documentation](#documentation)
 - [Presentations](#presentations)
+- [Cluster Management](#cluster-management)
+- [[Mesos](http://mesos.apache.org/)](#mesoshttpmesosapacheorg)
 - [Software Defined Network](#software-defined-network)
 - [Deploy](#deploy)
 - [Web](#web)
@@ -61,7 +63,9 @@
   - [UML](#uml)
 - [UI Prototyping](#ui-prototyping)
 - [Disk Recovery](#disk-recovery)
-- [Deep Learning](#deep-learning)
+- [Machine Learning](#machine-learning)
+  - [Distributed](#distributed)
+  - [Deep Learning](#deep-learning)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -503,8 +507,12 @@
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk)
 
 
-# Machine Learning
+# Operational Systems
 
+* [RancherOS](http://rancher.com/rancher-os/)
+
+
+# Machine Learning
 
 ## Distributed
 
