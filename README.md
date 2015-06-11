@@ -466,10 +466,11 @@
 * [GuardianJS](http://guardianjs.com/)
 
 
-# PaaS
+# PAAS
 
 * [OpenShift V3](https://www.openshift.com/)
 * [Tsuru](https://tsuru.io/)
+* [Rancher](http://rancher.com/)
 
 
 # Automation
