@@ -43,8 +43,6 @@
 - [Monitoring](#monitoring-1)
 - [Documentation](#documentation)
 - [Presentations](#presentations)
-- [Cluster Management](#cluster-management)
-- [[Mesos](http://mesos.apache.org/)](#mesoshttpmesosapacheorg)
 - [Software Defined Network](#software-defined-network)
 - [Deploy](#deploy)
 - [Web](#web)
@@ -116,10 +114,6 @@
 
 # Containers/Applications management
 
-* [Atomic](http://www.projectatomic.io/)
-* [Kubernetes](http://kubernetes.io/)
-* [Deis](http://deis.io/)
-* [Flynn](https://flynn.io/)
 
 
 # Continuous Integration / Deployment
@@ -363,9 +357,6 @@
 * [Go Present](https://godoc.org/golang.org/x/tools/cmd/present)
 
 
-# Cluster Management
-
-# [Mesos](http://mesos.apache.org/)
 
 
 # Software Defined Network
@@ -466,11 +457,25 @@
 * [GuardianJS](http://guardianjs.com/)
 
 
-# PAAS
+# IaaS
 
+# [Mesos](http://mesos.apache.org/)
+
+
+# PaaS
+
+* [Atomic](http://www.projectatomic.io/)
+* [Deis](http://deis.io/)
+* [Flynn](https://flynn.io/)
 * [OpenShift V3](https://www.openshift.com/)
 * [Tsuru](https://tsuru.io/)
 * [Rancher](http://rancher.com/)
+* [Lattice](http://lattice.cf/)
+
+
+# Cluster Management
+
+* [Kubernetes](http://kubernetes.io/)
 
 
 # Automation
