@@ -262,6 +262,7 @@
 
 # Logging
 
+
 ## Aggregator
 
 * [FluentD](http://www.fluentd.org/)
@@ -271,6 +272,7 @@
 * [Riemann](http://riemann.io/)
 * [Flume](http://flume.apache.org/)
 * [Logstash](http://www.logstash.net/)
+* [Logspout](https://github.com/gliderlabs/logspout)
 
 
 ## Dashboard
@@ -477,9 +479,10 @@
 * [Lattice](http://lattice.cf/)
 
 
-# Cluster Management
+# Cluster Management / Orchestration
 
 * [Kubernetes](http://kubernetes.io/)
+* [Swarm](https://docs.docker.com/swarm/)
 
 
 # Automation
