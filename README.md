@@ -339,6 +339,7 @@
 * [DaemonTools](http://cr.yp.to/daemontools.html)
 * [Prometheus](http://prometheus.io/)
 * [SysDig](http://www.sysdig.org/)
+* [MIG](http://mig.mozilla.org/)
 * [Performance Co Pilot](http://pcp.io/)
 * [CachetHQ](https://cachethq.io/)
 * [StatusPage](https://www.statuspage.io/)
