@@ -479,7 +479,12 @@
 * [Lattice](http://lattice.cf/)
 
 
-# Cluster Management / Orchestration
+# Cluster Bootstraping
+
+* [Terraform](https://www.terraform.io/)
+
+
+# Cluster Orchestration
 
 * [Kubernetes](http://kubernetes.io/)
 * [Swarm](https://docs.docker.com/swarm/)
