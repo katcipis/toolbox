@@ -2,78 +2,65 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Specification languages](#specification-languages)
 - [Mobile](#mobile)
   - [Tests](#tests)
 - [Testing](#testing)
   - [Management/Planning](#managementplanning)
   - [Mocking](#mocking)
   - [Aggregation](#aggregation)
-- [Containers/Applications management](#containersapplications-management)
-- [Continuous Integration / Deployment](#continuous-integration--deployment)
+- [CI /CD](#ci-cd)
 - [Static Analysis](#static-analysis)
   - [C / C++](#c--c)
   - [Python](#python)
   - [Javascript](#javascript)
-- [Profiling / Monitoring / Analytics](#profiling--monitoring--analytics)
+- [Profiling](#profiling)
   - [MongoDB](#mongodb)
   - [DBus](#dbus)
   - [C/C++](#cc)
 - [Hacking Tools](#hacking-tools)
 - [Network](#network)
 - [Docker](#docker)
-  - [Orchestration](#orchestration)
-  - [Monitoring](#monitoring)
   - [Data volume management](#data-volume-management)
 - [Databases](#databases)
-- [Data Migration](#data-migration)
-- [Database schema visualization](#database-schema-visualization)
-- [Data Analysis](#data-analysis)
-  - [Text Searching](#text-searching)
+  - [Migration](#migration)
+  - [Schema visualization](#schema-visualization)
 - [Logging](#logging)
   - [Aggregator](#aggregator)
   - [Dashboard](#dashboard)
   - [Analytics](#analytics)
-- [Message Queue](#message-queue)
+- [Message Queues](#message-queues)
 - [Service Discovery](#service-discovery)
-- [Graphing](#graphing)
 - [Project Mangement](#project-mangement)
   - [Services](#services)
   - [Open Source](#open-source)
-- [Monitoring](#monitoring-1)
+- [Black Box Monitoring](#black-box-monitoring)
 - [Documentation](#documentation)
 - [Presentations](#presentations)
-- [Cluster Management](#cluster-management)
-- [[Mesos](http://mesos.apache.org/)](#mesoshttpmesosapacheorg)
 - [Software Defined Network](#software-defined-network)
 - [Deploy](#deploy)
+- [Integration Contract Test](#integration-contract-test)
 - [Web](#web)
-  - [Maps](#maps)
   - [Performance/Load tests](#performanceload-tests)
-  - [Frontend](#frontend)
-    - [Databases](#databases-1)
-    - [Acceptance/Unit tests](#acceptanceunit-tests)
-  - [Backend](#backend)
-  - [Integration Contract Test](#integration-contract-test)
-  - [Documentation](#documentation-1)
+  - [Databases](#databases-1)
+  - [Acceptance/Unit tests](#acceptanceunit-tests)
   - [Security](#security)
+- [IaaS](#iaas)
+- [[Mesos](http://mesos.apache.org/)](#mesoshttpmesosapacheorg)
 - [PaaS](#paas)
+- [Cluster Bootstraping](#cluster-bootstraping)
+- [Cluster Orchestration](#cluster-orchestration)
 - [Automation](#automation)
 - [Diagrams](#diagrams)
   - [UML](#uml)
 - [UI Prototyping](#ui-prototyping)
 - [Disk Recovery](#disk-recovery)
+- [Operational Systems](#operational-systems)
 - [Machine Learning](#machine-learning)
   - [Distributed](#distributed)
   - [Deep Learning](#deep-learning)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-
-
-# Specification languages
-
-* [TLA](http://research.microsoft.com/en-us/um/people/lamport/tla/tla.html)
 
 
 # Mobile
@@ -114,15 +101,7 @@
 * [Preceptor](https://github.com/yahoo/preceptor)
 
 
-# Containers/Applications management
-
-* [Atomic](http://www.projectatomic.io/)
-* [Kubernetes](http://kubernetes.io/)
-* [Deis](http://deis.io/)
-* [Flynn](https://flynn.io/)
-
-
-# Continuous Integration / Deployment
+# CI /CD
 
 * [Snap](https://snap-ci.com/)
 * [Strider CD](http://stridercd.com/)
@@ -167,7 +146,7 @@
 * [Flow](http://flowtype.org/)
 
 
-# Profiling / Monitoring / Analytics
+# Profiling
 
 * [DTrace](http://dtrace.org/blogs/)
 * [System tap](https://sourceware.org/systemtap/)
@@ -218,16 +197,8 @@
 
 # Docker 
 
-## Orchestration
-
 * [Maestro-ng](https://github.com/signalfuse/maestro-ng)
-
-
-## Monitoring
-
-* [cAdvisor](https://github.com/google/cadvisor)
 * [docker-mon](https://github.com/icecrime/docker-mon)
-
 
 ## Data volume management
 
@@ -240,26 +211,17 @@
 * [arangodb](https://www.arangodb.com/)
 * [blinkdb](http://blinkdb.org/)
 * [druid](http://druid.io/)
+* [Presto](http://prestodb.io/)
 
 
-# Data Migration
+## Migration
 
 * [Flyway](https://github.com/flyway/flyway)
 
 
-# Database schema visualization
+## Schema visualization
 
 * [SchemaSpy](http://schemaspy.sourceforge.net/)
-
-
-# Data Analysis
-
-* [Pandas](http://pandas.pydata.org/)
-
-
-## Text Searching
-
-* [Presto](http://prestodb.io/)
 
 
 # Logging
@@ -274,12 +236,17 @@
 * [Flume](http://flume.apache.org/)
 * [Logstash](http://www.logstash.net/)
 * [Gollum](https://github.com/trivago/gollum)
+* [Logspout](https://github.com/gliderlabs/logspout)
 
 
 ## Dashboard
 
 * [Kibana](https://www.elastic.co/products/kibana)
 * [Graylog2](http://graylog2.org/)
+* [RRDtool](http://oss.oetiker.ch/rrdtool/)
+* [Graphite](http://graphite.wikidot.com/)
+* [Grafana](http://grafana.org/)
+
 
 ## Analytics
 
@@ -289,7 +256,7 @@
 * [Inviso](https://github.com/Netflix/inviso)
 
 
-# Message Queue
+# Message Queues
 
 * [Kafka](http://kafka.apache.org/)
 * [RabbitMQ](http://www.rabbitmq.com/)
@@ -302,13 +269,6 @@
 # Service Discovery
 
 * [Consul.io](https://consul.io/)
-
-
-# Graphing
-
-* [RRDtool](http://oss.oetiker.ch/rrdtool/)
-* [Graphite](http://graphite.wikidot.com/)
-* [Grafana](http://grafana.org/)
 
 
 # Project Mangement
@@ -329,7 +289,7 @@
 * [LibreBoard](https://github.com/libreboard/libreboard)
 
 
-# Monitoring
+# Black Box Monitoring
 
 * [Zabbix](http://www.zabbix.com/)
 * [Monit](https://mmonit.com/monit/)
@@ -340,6 +300,7 @@
 * [DaemonTools](http://cr.yp.to/daemontools.html)
 * [Prometheus](http://prometheus.io/)
 * [SysDig](http://www.sysdig.org/)
+* [MIG](http://mig.mozilla.org/)
 * [Performance Co Pilot](http://pcp.io/)
 * [CachetHQ](https://cachethq.io/)
 * [StatusPage](https://www.statuspage.io/)
@@ -354,6 +315,12 @@
 * [Document-Bootstrap](http://gregfranko.com/Document-Bootstrap/)
 * [Dexy](http://www.dexy.it/)
 * [Pandoc](http://johnmacfarlane.net/pandoc/)
+* [RAML](http://raml.org/)
+* [Swagger](https://helloreverb.com/developers/swagger)
+* [API Blueprint](http://apiblueprint.org/)
+* [Dox](https://github.com/visionmedia/dox)
+* [Sphinx HTTP](http://pythonhosted.org/sphinxcontrib-httpdomain/)
+* [iodocs](https://github.com/mashery/iodocs)
 
 
 # Presentations
@@ -362,11 +329,6 @@
 * [reveal.js](http://lab.hakim.se/reveal-js)
 * [dzslides](http://paulrouget.com/dzslides/)
 * [Go Present](https://godoc.org/golang.org/x/tools/cmd/present)
-
-
-# Cluster Management
-
-# [Mesos](http://mesos.apache.org/)
 
 
 # Software Defined Network
@@ -383,14 +345,13 @@
 * [Omnibus](https://github.com/opscode/omnibus)
 
 
+# Integration Contract Test
+
+* [Pacto](http://thoughtworks.github.io/pacto/)
+* [Pact](https://github.com/realestate-com-au/pact)
+
+
 # Web
-
-## Maps
-
-* [TileMill](https://www.mapbox.com/tilemill/)
-* [OpenStreetMap](http://www.openstreetmap.org/)
-* [CartoDB](http://cartodb.com/)
-
 
 ## Performance/Load tests
 
@@ -404,55 +365,18 @@
 * [boom](https://github.com/rakyll/boom)
 * [Bees with machine guns](https://github.com/newsapps/beeswithmachineguns)
 
-
-## Frontend
-
-* [Goo](http://www.goocreate.com/)
-* [PojoViz](http://maurizzzio.github.io/PojoViz/public/vulcanize.html)
-* [Wijmo5](http://wijmo.com/5/)
-* [Aurelia](http://aurelia.io/)
-* [ReactJS](http://facebook.github.io/react/)
-* [Heatmap.js](http://www.patrick-wied.at/static/heatmapjs)
-* [Browserify](http://browserify.org/)
-* [Phaser](http://phaser.io/)
-* [Web Starter Kit](https://developers.google.com/web/starter-kit/)
-* [Meteor](https://www.meteor.com/)
-* [D3JS](http://d3js.org/)
-
-
-### Databases
+## Databases
 
 * [PouchDB](http://pouchdb.com/)
 * [ForerunnerDB](http://www.forerunnerdb.com/)
 
 
-### Acceptance/Unit tests
+## Acceptance/Unit tests
 
 * [Selenium](http://www.seleniumhq.org/)
 * [PhantomJS](http://phantomjs.org/)
 * [Pioneer](http://pioneerjs.com/)
 * [Protractor](https://github.com/angular/protractor)
-
-
-## Backend
-
-* [OpenResty](http://openresty.org/)
-
-
-## Integration Contract Test
-
-* [Pacto](http://thoughtworks.github.io/pacto/)
-* [Pact](https://github.com/realestate-com-au/pact)
-
-
-## Documentation
-
-* [RAML](http://raml.org/)
-* [Swagger](https://helloreverb.com/developers/swagger)
-* [API Blueprint](http://apiblueprint.org/)
-* [Dox](https://github.com/visionmedia/dox)
-* [Sphinx HTTP](http://pythonhosted.org/sphinxcontrib-httpdomain/)
-* [iodocs](https://github.com/mashery/iodocs)
 
 
 ## Security
@@ -467,11 +391,31 @@
 * [GuardianJS](http://guardianjs.com/)
 
 
-# PAAS
+# IaaS
 
+# [Mesos](http://mesos.apache.org/)
+
+
+# PaaS
+
+* [Atomic](http://www.projectatomic.io/)
+* [Deis](http://deis.io/)
+* [Flynn](https://flynn.io/)
 * [OpenShift V3](https://www.openshift.com/)
 * [Tsuru](https://tsuru.io/)
 * [Rancher](http://rancher.com/)
+* [Lattice](http://lattice.cf/)
+
+
+# Cluster Bootstraping
+
+* [Terraform](https://www.terraform.io/)
+
+
+# Cluster Orchestration
+
+* [Kubernetes](http://kubernetes.io/)
+* [Swarm](https://docs.docker.com/swarm/)
 
 
 # Automation
@@ -520,7 +464,6 @@
 
 * [Petuum](http://petuum.github.io/)
 * [PredictionIO](https://docs.prediction.io/)
-
 
 ## Deep Learning
 
