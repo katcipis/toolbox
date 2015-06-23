@@ -273,6 +273,7 @@
 * [Riemann](http://riemann.io/)
 * [Flume](http://flume.apache.org/)
 * [Logstash](http://www.logstash.net/)
+* [Gollum](https://github.com/trivago/gollum)
 
 
 ## Dashboard
