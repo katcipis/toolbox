@@ -321,6 +321,7 @@
 * [Dox](https://github.com/visionmedia/dox)
 * [Sphinx HTTP](http://pythonhosted.org/sphinxcontrib-httpdomain/)
 * [iodocs](https://github.com/mashery/iodocs)
+* [ShareLaTeX](https://www.sharelatex.com/)
 
 
 # Presentations
@@ -440,6 +441,11 @@
 * [UMLet](http://www.umlet.com/)
 * [GenMyModel](http://www.genmymodel.com/)
 * [Astah](http://astah.net/)
+
+
+# Load balancers
+
+* [vulcand](https://github.com/mailgun/vulcand)
 
 
 # UI Prototyping
