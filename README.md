@@ -364,6 +364,7 @@
 * [ab](http://httpd.apache.org/docs/2.2/programs/ab.html)
 * [wrk](https://github.com/wg/wrk)
 * [boom](https://github.com/rakyll/boom)
+* [gor](https://github.com/buger/gor)
 * [Bees with machine guns](https://github.com/newsapps/beeswithmachineguns)
 
 ## Databases
