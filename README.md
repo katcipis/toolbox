@@ -93,6 +93,7 @@
 
 * [Mountebank](http://www.mbtest.org/)
 * [Toxiproxy](https://github.com/shopify/toxiproxy)
+* [Hamms](https://github.com/kevinburke/hamms)
 * [VCR](https://github.com/vcr/vcr)
 
 
