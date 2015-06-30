@@ -305,6 +305,7 @@
 * [CachetHQ](https://cachethq.io/)
 * [StatusPage](https://www.statuspage.io/)
 * [cAdvisor](https://github.com/google/cadvisor)
+* [Sensu](https://github.com/sensu/sensu)
 
 
 # Documentation
