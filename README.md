@@ -93,6 +93,7 @@
 
 * [Mountebank](http://www.mbtest.org/)
 * [Toxiproxy](https://github.com/shopify/toxiproxy)
+* [Hamms](https://github.com/kevinburke/hamms)
 * [VCR](https://github.com/vcr/vcr)
 
 
@@ -322,6 +323,7 @@
 * [Dox](https://github.com/visionmedia/dox)
 * [Sphinx HTTP](http://pythonhosted.org/sphinxcontrib-httpdomain/)
 * [iodocs](https://github.com/mashery/iodocs)
+* [ShareLaTeX](https://www.sharelatex.com/)
 
 
 # Presentations
@@ -364,6 +366,7 @@
 * [ab](http://httpd.apache.org/docs/2.2/programs/ab.html)
 * [wrk](https://github.com/wg/wrk)
 * [boom](https://github.com/rakyll/boom)
+* [gor](https://github.com/buger/gor)
 * [Bees with machine guns](https://github.com/newsapps/beeswithmachineguns)
 
 ## Databases
@@ -441,6 +444,12 @@
 * [UMLet](http://www.umlet.com/)
 * [GenMyModel](http://www.genmymodel.com/)
 * [Astah](http://astah.net/)
+* [Plantuml](http://plantuml.sourceforge.net/)
+
+
+# Load balancers
+
+* [vulcand](https://github.com/mailgun/vulcand)
 
 
 # UI Prototyping
