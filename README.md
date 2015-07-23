@@ -466,6 +466,7 @@
 # Crawlers
 
 * [grepsr](http://www.grepsr.com/)
+* [fetchbot](https://github.com/PuerkitoBio/fetchbot)
 
 
 # Machine Learning
