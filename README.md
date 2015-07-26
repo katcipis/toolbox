@@ -392,6 +392,13 @@
 * [Shiro](http://shiro.apache.org/)
 * [SecStore](https://github.com/jas-/secStore.js)
 * [GuardianJS](http://guardianjs.com/)
+* [HMAC](https://en.wikipedia.org/wiki/Hash-based_message_authentication_code)
+* [JWT](http://jwt.io/)
+* [OpenID Connect](http://openid.net/connect/)
+* [SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language)
+* [Shibboleth](https://shibboleth.net/)
+* [Gluu](http://www.gluu.org/)
+* [OpenAM](https://en.wikipedia.org/wiki/OpenAM)
 
 
 # IaaS
