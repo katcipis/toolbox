@@ -306,6 +306,7 @@
 * [CachetHQ](https://cachethq.io/)
 * [StatusPage](https://www.statuspage.io/)
 * [cAdvisor](https://github.com/google/cadvisor)
+* [Sensu](https://github.com/sensu/sensu)
 
 
 # Documentation
@@ -469,9 +470,10 @@
 * [TestDisk](http://www.cgsecurity.org/wiki/TestDisk)
 
 
-# Operational Systems
+# Crawlers
 
-* [RancherOS](http://rancher.com/rancher-os/)
+* [grepsr](http://www.grepsr.com/)
+* [fetchbot](https://github.com/PuerkitoBio/fetchbot)
 
 
 # Machine Learning
