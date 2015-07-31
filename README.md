@@ -189,12 +189,16 @@
 * [CORE](http://www.nrl.navy.mil/itd/ncs/products/core)
 * [keepalived](http://www.keepalived.org/)
 * [Hydra](https://www.thc.org/thc-hydra/)
-* [mtr](http://linux.about.com/library/cmd/blcmdl8_mtr.htm)
 
 
 ## Profiling
 
 * [Iperf](https://code.google.com/p/iperf/)
+
+
+## Diagnostic
+
+* [mtr](http://linux.about.com/library/cmd/blcmdl8_mtr.htm)
 
 
 ## Monitoring
