@@ -416,6 +416,12 @@
 * [OpenAM](https://en.wikipedia.org/wiki/OpenAM)
 
 
+### Secret Management
+
+* [Keywhiz](https://square.github.io/keywhiz/)
+* [Vault](https://vaultproject.io/)
+
+
 # IaaS
 
 # [Mesos](http://mesos.apache.org/)
