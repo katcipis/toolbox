@@ -241,6 +241,9 @@
 
 # Logging
 
+* [log.io](http://logio.org/)
+
+
 ## Aggregator
 
 * [FluentD](http://www.fluentd.org/)
