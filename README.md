@@ -480,6 +480,8 @@
 # Load balancers
 
 * [vulcand](https://github.com/mailgun/vulcand)
+* [happroxy](http://www.haproxy.org/)
+* [caddy](https://caddyserver.com/)
 
 
 # UI Prototyping
