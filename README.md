@@ -232,6 +232,7 @@
 * [blinkdb](http://blinkdb.org/)
 * [druid](http://druid.io/)
 * [Presto](http://prestodb.io/)
+* [InfluxDB](http://influxdb.com/)
 
 
 ## Migration
@@ -246,7 +247,9 @@
 
 # Logging
 
+
 * [log.io](http://logio.org/)
+* [Bosun](http://bosun.org/)
 
 
 ## Aggregator
@@ -254,7 +257,6 @@
 * [FluentD](http://www.fluentd.org/)
 * [Chukwa](http://chukwa.apache.org/)
 * [Heka](https://github.com/mozilla-services/heka)
-* [InfluxDB](http://influxdb.com/)
 * [Riemann](http://riemann.io/)
 * [Flume](http://flume.apache.org/)
 * [Logstash](http://www.logstash.net/)
