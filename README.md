@@ -159,6 +159,11 @@
 * [dstat](http://linux.die.net/man/1/dstat)
 
 
+## Golang
+
+* [go-torch](https://github.com/uber/go-torch)
+
+
 ## MongoDB
 
 * [mtools](https://github.com/rueckstiess/mtools)
@@ -509,10 +514,14 @@
 
 # Machine Learning
 
+* [goml](https://github.com/cdipaolo/goml)
+
+
 ## Distributed
 
 * [Petuum](http://petuum.github.io/)
 * [PredictionIO](https://docs.prediction.io/)
+
 
 ## Deep Learning
 
