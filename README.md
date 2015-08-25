@@ -371,6 +371,12 @@
 * [Pact](https://github.com/realestate-com-au/pact)
 
 
+# Penetration Tests
+
+* [skipfish](https://code.google.com/p/skipfish/)
+* [Burp](https://portswigger.net/burp/)
+
+
 # Web
 
 ## Performance/Load tests
