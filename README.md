@@ -536,3 +536,4 @@
 # Content Analysis
 
 * [Tika](http://tika.apache.org/)
+* [PDF Liberation](https://pdfliberation.wordpress.com/)
