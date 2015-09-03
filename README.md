@@ -159,6 +159,11 @@
 * [dstat](http://linux.die.net/man/1/dstat)
 
 
+## Golang
+
+* [go-torch](https://github.com/uber/go-torch)
+
+
 ## MongoDB
 
 * [mtools](https://github.com/rueckstiess/mtools)
@@ -227,6 +232,7 @@
 * [blinkdb](http://blinkdb.org/)
 * [druid](http://druid.io/)
 * [Presto](http://prestodb.io/)
+* [InfluxDB](http://influxdb.com/)
 
 
 ## Migration
@@ -241,7 +247,9 @@
 
 # Logging
 
+
 * [log.io](http://logio.org/)
+* [Bosun](http://bosun.org/)
 
 
 ## Aggregator
@@ -249,7 +257,6 @@
 * [FluentD](http://www.fluentd.org/)
 * [Chukwa](http://chukwa.apache.org/)
 * [Heka](https://github.com/mozilla-services/heka)
-* [InfluxDB](http://influxdb.com/)
 * [Riemann](http://riemann.io/)
 * [Flume](http://flume.apache.org/)
 * [Logstash](http://www.logstash.net/)
@@ -515,10 +522,14 @@
 
 # Machine Learning
 
+* [goml](https://github.com/cdipaolo/goml)
+
+
 ## Distributed
 
 * [Petuum](http://petuum.github.io/)
 * [PredictionIO](https://docs.prediction.io/)
+
 
 ## Deep Learning
 
@@ -526,3 +537,9 @@
 * [dnngraph](https://github.com/ajtulloch/dnngraph)
 * [Caffe](http://caffe.berkeleyvision.org/)
 * [waifu2x](https://github.com/nagadomi/waifu2x)
+
+
+# Content Analysis
+
+* [Tika](http://tika.apache.org/)
+* [PDF Liberation](https://pdfliberation.wordpress.com/)
