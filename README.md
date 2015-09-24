@@ -233,6 +233,7 @@
 * [druid](http://druid.io/)
 * [Presto](http://prestodb.io/)
 * [InfluxDB](http://influxdb.com/)
+* [Scylla](https://github.com/scylladb/scylla)
 
 
 ## Migration
