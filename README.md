@@ -250,10 +250,6 @@
 
 * [log.io](http://logio.org/)
 * [Bosun](http://bosun.org/)
-
-
-## Aggregator
-
 * [FluentD](http://www.fluentd.org/)
 * [Chukwa](http://chukwa.apache.org/)
 * [Heka](https://github.com/mozilla-services/heka)
@@ -262,15 +258,13 @@
 * [Logstash](http://www.logstash.net/)
 * [Gollum](https://github.com/trivago/gollum)
 * [Logspout](https://github.com/gliderlabs/logspout)
-
-
-## Dashboard
-
+* [Ekanite](https://github.com/ekanite/ekanite)
 * [Kibana](https://www.elastic.co/products/kibana)
 * [Graylog2](http://graylog2.org/)
 * [RRDtool](http://oss.oetiker.ch/rrdtool/)
 * [Graphite](http://graphite.wikidot.com/)
 * [Grafana](http://grafana.org/)
+* [Prometheus](http://prometheus.io/)
 
 
 ## Analytics
@@ -323,7 +317,6 @@
 * [Ganglia](http://ganglia.sourceforge.net/)
 * [Monitorix](http://www.monitorix.org/)
 * [DaemonTools](http://cr.yp.to/daemontools.html)
-* [Prometheus](http://prometheus.io/)
 * [SysDig](http://www.sysdig.org/)
 * [MIG](http://mig.mozilla.org/)
 * [Performance Co Pilot](http://pcp.io/)
