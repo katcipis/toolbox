@@ -64,23 +64,6 @@
 
 
 
-# Mobile
-
-* [Flurry Analytics](http://www.flurry.com/solutions/analytics)
-* [Phone Gap](http://phonegap.com/)
-* [XDK](http://xdk-software.intel.com/)
-* [Apache Cordova](http://cordova.apache.org/)
-* [GenyMotion](http://www.genymotion.com/)
-* [Appium](http://appium.io/)
-* [App Inventor](http://appinventor.mit.edu/explore/)
-
-
-## Tests
-
-* [Calabash](http://calaba.sh/)
-* [Robolectric](http://robolectric.org/)
-
-
 # Testing
 
 ## Management/Planning
@@ -96,6 +79,9 @@
 * [Toxiproxy](https://github.com/shopify/toxiproxy)
 * [Hamms](https://github.com/kevinburke/hamms)
 * [VCR](https://github.com/vcr/vcr)
+* [gor](https://github.com/buger/gor)
+* [Pacto](http://thoughtworks.github.io/pacto/)
+* [Pact](https://github.com/realestate-com-au/pact)
 
 
 ## Aggregation
@@ -150,6 +136,7 @@
 
 # Profiling
 
+* [Iperf](https://code.google.com/p/iperf/)
 * [DTrace](http://dtrace.org/blogs/)
 * [System tap](https://sourceware.org/systemtap/)
 * [osquery](https://github.com/facebook/osquery)
@@ -196,11 +183,6 @@
 * [Hydra](https://www.thc.org/thc-hydra/)
 
 
-## Profiling
-
-* [Iperf](https://code.google.com/p/iperf/)
-
-
 ## Diagnostic
 
 * [mtr](http://linux.about.com/library/cmd/blcmdl8_mtr.htm)
@@ -213,16 +195,6 @@
 * [nmap](http://nmap.org/)
 * [iptraf](http://iptraf.seul.org/)
 * [ntop](http://www.ntop.org)
-
-
-# Docker 
-
-* [Maestro-ng](https://github.com/signalfuse/maestro-ng)
-* [docker-mon](https://github.com/icecrime/docker-mon)
-
-## Data volume management
-
-* [Flocker](https://github.com/clusterhq/flocker)
 
 
 # Databases
@@ -360,12 +332,6 @@
 * [Pipework](https://github.com/jpetazzo/pipework)
 
 
-# Integration Contract Test
-
-* [Pacto](http://thoughtworks.github.io/pacto/)
-* [Pact](https://github.com/realestate-com-au/pact)
-
-
 # Penetration Tests
 
 * [skipfish](https://code.google.com/p/skipfish/)
@@ -382,17 +348,10 @@
 * [ab](http://httpd.apache.org/docs/2.2/programs/ab.html)
 * [wrk](https://github.com/wg/wrk)
 * [boom](https://github.com/rakyll/boom)
-* [gor](https://github.com/buger/gor)
 * [Bees with machine guns](https://github.com/newsapps/beeswithmachineguns)
 
 
 # Web
-
-## Databases
-
-* [PouchDB](http://pouchdb.com/)
-* [ForerunnerDB](http://www.forerunnerdb.com/)
-
 
 ## Acceptance/Unit tests
 
@@ -425,11 +384,6 @@
 
 * [Keywhiz](https://square.github.io/keywhiz/)
 * [Vault](https://vaultproject.io/)
-
-
-# IaaS
-
-# [Mesos](http://mesos.apache.org/)
 
 
 # PaaS
@@ -497,6 +451,7 @@
 * [ioping](https://code.google.com/p/ioping/)
 * [iotop](http://linux.die.net/man/1/iotop)
 * [fio](http://linux.die.net/man/1/fio)
+
 
 ## Recovery
 
