@@ -129,14 +129,10 @@
 * [pep9](https://github.com/jcrocholl/pep8)
 
 
-## Javascript
-
-* [Flow](http://flowtype.org/)
-
-
 # Profiling
 
-* [Iperf](https://code.google.com/p/iperf/)
+* [Perf](https://perf.wiki.kernel.org/index.php/Main_Page)
+* [Iperf](https://github.com/esnet/iperf)
 * [DTrace](http://dtrace.org/blogs/)
 * [System tap](https://sourceware.org/systemtap/)
 * [osquery](https://github.com/facebook/osquery)
