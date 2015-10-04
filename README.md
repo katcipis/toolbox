@@ -480,6 +480,7 @@
 * [Keras](http://keras.io/)
 * [dnngraph](https://github.com/ajtulloch/dnngraph)
 * [Caffe](http://caffe.berkeleyvision.org/)
+* [Elastic Tought](https://github.com/tleyden/elastic-thought)
 * [waifu2x](https://github.com/nagadomi/waifu2x)
 
 
