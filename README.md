@@ -219,23 +219,25 @@
 
 * [log.io](http://logio.org/)
 * [Bosun](http://bosun.org/)
-* [FluentD](http://www.fluentd.org/)
 * [Chukwa](http://chukwa.apache.org/)
-* [Heka](https://github.com/mozilla-services/heka)
 * [Riemann](http://riemann.io/)
 * [Flume](http://flume.apache.org/)
-* [Logstash](http://www.logstash.net/)
 * [Gollum](https://github.com/trivago/gollum)
 * [Logspout](https://github.com/gliderlabs/logspout)
 * [Ekanite](https://github.com/ekanite/ekanite)
 * [Kibana](https://www.elastic.co/products/kibana)
-* [Graylog2](http://graylog2.org/)
 * [RRDtool](http://oss.oetiker.ch/rrdtool/)
-* [Graphite](http://graphite.wikidot.com/)
-* [Grafana](http://grafana.org/)
 
 
-## Structured Logging
+## Aggregate
+
+* [Logstash](http://www.logstash.net/)
+* [Graylog2](http://graylog2.org/)
+* [Heka](https://github.com/mozilla-services/heka)
+* [FluentD](http://www.fluentd.org/)
+
+
+## Structure
 
 * [Logrus](https://github.com/Sirupsen/logrus)
 
@@ -299,6 +301,8 @@
 * [StatusPage](https://www.statuspage.io/)
 * [cAdvisor](https://github.com/google/cadvisor)
 * [Sensu](https://github.com/sensu/sensu)
+* [Graphite](http://graphite.wikidot.com/)
+* [Grafana](http://grafana.org/)
 
 
 # Documentation
