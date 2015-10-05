@@ -233,7 +233,11 @@
 * [RRDtool](http://oss.oetiker.ch/rrdtool/)
 * [Graphite](http://graphite.wikidot.com/)
 * [Grafana](http://grafana.org/)
-* [Prometheus](http://prometheus.io/)
+
+
+## Structured Logging
+
+* [Logrus](https://github.com/Sirupsen/logrus)
 
 
 ## Analytics
@@ -279,6 +283,8 @@
 
 # Monitoring
 
+
+* [Prometheus](http://prometheus.io/)
 * [Zabbix](http://www.zabbix.com/)
 * [Monit](https://mmonit.com/monit/)
 * [Munin](http://munin-monitoring.org/)
