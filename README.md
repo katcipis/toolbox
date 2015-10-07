@@ -475,6 +475,11 @@
 * [goml](https://github.com/cdipaolo/goml)
 
 
+## OCR
+
+* [tesseract](https://github.com/tesseract-ocr/tesseract)
+
+
 ## Distributed
 
 * [Petuum](http://petuum.github.io/)
