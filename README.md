@@ -258,6 +258,7 @@
 * [Iris](http://iris.karalabe.com/)
 * [NSQ](https://github.com/bitly/nsq)
 * [Celery](http://www.celeryproject.org/)
+* [Siberite](https://github.com/bogdanovich/siberite)
 
 
 # Service Discovery
