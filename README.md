@@ -131,6 +131,7 @@
 
 # Profiling
 
+* [perf-tools](https://github.com/brendangregg/perf-tools)
 * [Perf](https://perf.wiki.kernel.org/index.php/Main_Page)
 * [Iperf](https://github.com/esnet/iperf)
 * [DTrace](http://dtrace.org/blogs/)
