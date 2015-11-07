@@ -183,13 +183,13 @@
 ## Diagnostic
 
 * [mtr](http://linux.about.com/library/cmd/blcmdl8_mtr.htm)
+* [nmap](http://nmap.org/)
 
 
 ## Monitoring
 
 * [Nethogs](http://nethogs.sourceforge.net/)
 * [iftop](http://www.ex-parrot.com/~pdw/iftop/)
-* [nmap](http://nmap.org/)
 * [iptraf](http://iptraf.seul.org/)
 * [ntop](http://www.ntop.org)
 
