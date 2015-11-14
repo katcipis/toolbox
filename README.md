@@ -387,6 +387,7 @@
 * [Gluu](http://www.gluu.org/)
 * [OpenAM](https://en.wikipedia.org/wiki/OpenAM)
 * [Dex](https://github.com/coreos/dex)
+* [Clair](https://github.com/coreos/clair)
 
 
 ## Secret Management
