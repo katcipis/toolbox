@@ -203,6 +203,7 @@
 * [Presto](http://prestodb.io/)
 * [InfluxDB](http://influxdb.com/)
 * [Scylla](https://github.com/scylladb/scylla)
+* [Camlistore](http://camlistore.org/)
 
 
 ## Migration
