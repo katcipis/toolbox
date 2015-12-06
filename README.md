@@ -89,15 +89,33 @@
 * [Preceptor](https://github.com/yahoo/preceptor)
 
 
+# Debuggers
+
+
+## Memory
+
+* [Dmalloc](http://dmalloc.com/)
+* [Efence](http://elinux.org/Electric_Fence)
+* [Valgrind](http://valgrind.org/)
+* [memwatch](http://www.linkdata.se/sourcecode/memwatch/)
+* [mtrace](http://www.gnu.org/software/libc/manual/html_node/Tracing-malloc.html)
+
+
 # CI /CD
+
+## On premisses
+
+* [Jenkins](http://jenkins-ci.org/)
+* [Go](http://www.go.cd/)
+* [Gitlab CI](https://about.gitlab.com/gitlab-ci/)
+* [Buildbot](http://buildbot.net/)
+
+
+## Services
 
 * [Snap](https://snap-ci.com/)
 * [Strider CD](http://stridercd.com/)
-* [Jenkins](http://jenkins-ci.org/)
-* [Go](http://www.go.cd/)
 * [Travis](https://travis-ci.org/)
-* [Buildbot](http://buildbot.net/)
-* [Gitlab CI](https://about.gitlab.com/gitlab-ci/)
 * [Coveralls](https://coveralls.io/)
 * [CircleCI](https://circleci.com/)
 
