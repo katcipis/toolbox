@@ -270,7 +270,7 @@
 * [Inviso](https://github.com/Netflix/inviso)
 
 
-# Message Queues
+# Message Queues / Pub Sub
 
 * [Kafka](http://kafka.apache.org/)
 * [RabbitMQ](http://www.rabbitmq.com/)
@@ -279,6 +279,7 @@
 * [NSQ](https://github.com/bitly/nsq)
 * [Celery](http://www.celeryproject.org/)
 * [Siberite](https://github.com/bogdanovich/siberite)
+* [nchan](https://github.com/slact/nchan)
 
 
 # Service Discovery
