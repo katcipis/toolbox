@@ -161,6 +161,13 @@
 * [dstat](http://linux.die.net/man/1/dstat)
 
 
+## Disk
+
+* [ioping](https://code.google.com/p/ioping/)
+* [iotop](http://linux.die.net/man/1/iotop)
+* [fio](http://linux.die.net/man/1/fio)
+
+
 ## Golang
 
 * [go-torch](https://github.com/uber/go-torch)
@@ -463,24 +470,18 @@
 * [Plantuml](http://plantuml.sourceforge.net/)
 
 
-# Load balancers
+# HTTP Servers / Load balancers
 
 * [vulcand](https://github.com/mailgun/vulcand)
 * [happroxy](http://www.haproxy.org/)
 * [caddy](https://caddyserver.com/)
+* [h2o](https://h2o.examp1e.net/)
 
 
 # UI Prototyping
 
 * [Pencil](http://pencil.evolus.vn/Default.html)
 * [POP](https://popapp.in/)
-
-
-# Disk 
-
-* [ioping](https://code.google.com/p/ioping/)
-* [iotop](http://linux.die.net/man/1/iotop)
-* [fio](http://linux.die.net/man/1/fio)
 
 
 ## Recovery
