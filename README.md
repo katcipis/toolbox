@@ -470,12 +470,14 @@
 * [Plantuml](http://plantuml.sourceforge.net/)
 
 
-# HTTP Servers / Load balancers
+# HTTP Reverse Proxies / Load balancers
 
 * [vulcand](https://github.com/mailgun/vulcand)
 * [happroxy](http://www.haproxy.org/)
 * [caddy](https://caddyserver.com/)
 * [h2o](https://h2o.examp1e.net/)
+* [traefik](https://github.com/EmileVauge/traefik)
+* [fabio](https://github.com/eBay/fabio)
 
 
 # UI Prototyping
