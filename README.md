@@ -332,6 +332,7 @@
 * [Sensu](https://github.com/sensu/sensu)
 * [Graphite](http://graphite.wikidot.com/)
 * [Grafana](http://grafana.org/)
+* [Snap](https://github.com/intelsdi-x/snap)
 
 
 # Documentation
