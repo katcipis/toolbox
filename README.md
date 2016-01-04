@@ -540,3 +540,8 @@
 * [kimonolabs](https://www.kimonolabs.com/)
 * [scrapinghub](http://scrapinghub.com/)
 * [cloud scrape](http://cloudscrape.com/)
+
+
+# Proxy Providers
+
+* [luminati.io](https://luminati.io/)
