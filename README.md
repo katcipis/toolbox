@@ -390,6 +390,11 @@
 
 # Web
 
+## Feeds / Stream
+
+* [Stream-Framework](https://github.com/tschellenbach/Stream-Framework)
+
+
 ## Acceptance/Unit tests
 
 * [Selenium](http://www.seleniumhq.org/)
