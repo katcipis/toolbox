@@ -225,6 +225,8 @@
 * [arangodb](https://www.arangodb.com/)
 * [blinkdb](http://blinkdb.org/)
 * [druid](http://druid.io/)
+* [pipelinedb](https://www.pipelinedb.com/)
+* [ceph](http://ceph.com/)
 * [Presto](http://prestodb.io/)
 * [InfluxDB](http://influxdb.com/)
 * [Scylla](https://github.com/scylladb/scylla)
