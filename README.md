@@ -89,8 +89,12 @@
 * [Preceptor](https://github.com/yahoo/preceptor)
 
 
-# Debuggers
+## Browser
 
+* [browsersync](https://www.browsersync.io/)
+
+
+# Debuggers
 
 ## Memory
 
