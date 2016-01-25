@@ -545,7 +545,16 @@
 * [PDF Liberation](https://pdfliberation.wordpress.com/)
 
 
-# Scrapping services
+# Scrapping 
+
+
+## Libs
+
+* [scrapely](https://github.com/scrapy/scrapely)
+* [parsley](https://github.com/fizx/parsley)
+
+
+## Services
 
 * [import.io](https://import.io)
 * [kimonolabs](https://www.kimonolabs.com/)
