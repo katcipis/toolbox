@@ -513,6 +513,7 @@
 # Machine Learning
 
 * [goml](https://github.com/cdipaolo/goml)
+* [torch](http://torch.ch/)
 
 
 ## OCR
