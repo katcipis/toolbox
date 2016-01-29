@@ -383,7 +383,6 @@
 
 # Performance/Load tests
 
-* [JMeter](http://jmeter.apache.org/)
 * [Gatling](http://gatling-tool.org/)
 * [Tsung](http://tsung.erlang-projects.org/)
 * [curl-loader](http://curl-loader.sourceforge.net/)
@@ -392,6 +391,8 @@
 * [wrk](https://github.com/wg/wrk)
 * [boom](https://github.com/rakyll/boom)
 * [Bees with machine guns](https://github.com/newsapps/beeswithmachineguns)
+* [goad](https://github.com/gophergala2016/goad)
+* [JMeter](http://jmeter.apache.org/)
 
 
 # Web
