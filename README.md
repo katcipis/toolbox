@@ -165,6 +165,10 @@
 * [dstat](http://linux.die.net/man/1/dstat)
 
 
+## CPU
+
+* [mpstat](http://linuxcommand.org/man_pages/mpstat1.html)
+
 ## Disk
 
 * [ioping](https://code.google.com/p/ioping/)
