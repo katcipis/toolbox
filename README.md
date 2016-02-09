@@ -164,10 +164,15 @@
 * [KCacheGrind](http://kcachegrind.sourceforge.net/html/Home.html)
 * [dstat](http://linux.die.net/man/1/dstat)
 
+## Memory
+
+* [vmstat](http://linux.die.net/man/8/vmstat)
+
 
 ## CPU
 
 * [mpstat](http://linuxcommand.org/man_pages/mpstat1.html)
+
 
 ## Disk
 
