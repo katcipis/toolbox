@@ -105,6 +105,11 @@
 * [mtrace](http://www.gnu.org/software/libc/manual/html_node/Tracing-malloc.html)
 
 
+### Python
+
+* [Heapy](http://guppy-pe.sourceforge.net/)
+
+
 # CI /CD
 
 ## On premisses
@@ -164,9 +169,11 @@
 * [KCacheGrind](http://kcachegrind.sourceforge.net/html/Home.html)
 * [dstat](http://linux.die.net/man/1/dstat)
 
+
 ## Memory
 
 * [vmstat](http://linux.die.net/man/8/vmstat)
+
 
 
 ## CPU
