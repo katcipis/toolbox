@@ -252,6 +252,7 @@
 * [Scylla](https://github.com/scylladb/scylla)
 * [Camlistore](http://camlistore.org/)
 * [OpenTSDB](http://opentsdb.net/)
+* [RethinkDB](http://www.rethinkdb.com/)
 
 
 ## Migration
