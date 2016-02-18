@@ -78,6 +78,7 @@
 * [Mountebank](http://www.mbtest.org/)
 * [Toxiproxy](https://github.com/shopify/toxiproxy)
 * [Hamms](https://github.com/kevinburke/hamms)
+* [HoverFly](https://github.com/SpectoLabs/hoverfly)
 * [VCR](https://github.com/vcr/vcr)
 * [gor](https://github.com/buger/gor)
 * [Pacto](http://thoughtworks.github.io/pacto/)
