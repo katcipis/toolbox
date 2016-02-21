@@ -254,6 +254,7 @@
 * [Camlistore](http://camlistore.org/)
 * [OpenTSDB](http://opentsdb.net/)
 * [RethinkDB](http://www.rethinkdb.com/)
+* [ZeroDB](https://www.zerodb.io/)
 
 
 ## Migration
