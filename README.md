@@ -491,6 +491,7 @@
 * [Sequence Diagrams](https://www.websequencediagrams.com/)
 * [Dia](https://wiki.gnome.org/Apps/Dia/)
 * [Draw.io](https://www.draw.io/)
+* [ditaa](http://ditaa.sourceforge.net/)
 
 
 ## UML
