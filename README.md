@@ -187,6 +187,14 @@
 * [cpustat](https://github.com/uber-common/cpustat)
 
 
+## Network
+
+* [Nethogs](http://nethogs.sourceforge.net/)
+* [iftop](http://www.ex-parrot.com/~pdw/iftop/)
+* [iptraf](http://iptraf.seul.org/)
+* [ntop](http://www.ntop.org)
+
+
 ## Disk
 
 * [ioping](https://code.google.com/p/ioping/)
@@ -235,14 +243,7 @@
 
 * [mtr](http://linux.about.com/library/cmd/blcmdl8_mtr.htm)
 * [nmap](http://nmap.org/)
-
-
-## Monitoring
-
-* [Nethogs](http://nethogs.sourceforge.net/)
-* [iftop](http://www.ex-parrot.com/~pdw/iftop/)
-* [iptraf](http://iptraf.seul.org/)
-* [ntop](http://www.ntop.org)
+* [netstat](http://linux.die.net/man/8/netstat)
 
 
 # Databases
