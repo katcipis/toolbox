@@ -544,6 +544,12 @@
 * [torch](http://torch.ch/)
 
 
+## Speech Analysis
+
+* [pyttsx](https://github.com/parente/pyttsx)
+* [speech_recognition](https://github.com/Uberi/speech_recognition)
+
+
 ## OCR
 
 * [tesseract](https://github.com/tesseract-ocr/tesseract)
