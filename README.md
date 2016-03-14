@@ -124,6 +124,7 @@
 * [Go](http://www.go.cd/)
 * [Gitlab CI](https://about.gitlab.com/gitlab-ci/)
 * [Buildbot](http://buildbot.net/)
+* [Helios](https://github.com/spotify/helios)
 
 
 ## Services
