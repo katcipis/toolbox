@@ -163,6 +163,11 @@
 * [pep9](https://github.com/jcrocholl/pep8)
 
 
+## Golang
+
+* [go-unused](https://github.com/dominikh/go-unused)
+
+
 # Profiling
 
 * [perf-tools](https://github.com/brendangregg/perf-tools)
