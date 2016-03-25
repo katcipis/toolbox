@@ -266,9 +266,18 @@
 * [InfluxDB](http://influxdb.com/)
 * [Scylla](https://github.com/scylladb/scylla)
 * [Camlistore](http://camlistore.org/)
-* [OpenTSDB](http://opentsdb.net/)
 * [RethinkDB](http://www.rethinkdb.com/)
 * [ZeroDB](https://www.zerodb.io/)
+
+
+## SQL
+
+* [Citus](https://github.com/citusdata/citus)
+
+
+## Time Series
+
+* [OpenTSDB](http://opentsdb.net/)
 
 
 ## Migration
