@@ -165,7 +165,10 @@
 
 ## Golang
 
+* [go-vet](https://golang.org/cmd/vet)
 * [go-unused](https://github.com/dominikh/go-unused)
+* [go-simple](https://github.com/dominikh/go-simple)
+* [go-staticcheck](https://github.com/dominikh/go-staticcheck)
 
 
 # Profiling
