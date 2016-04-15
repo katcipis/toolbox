@@ -66,6 +66,12 @@
 
 # Testing
 
+
+## Chaos
+
+* [pumba](https://github.com/gaia-adm/pumba)
+
+
 ## Management/Planning
 
 * [Testopia](https://developer.mozilla.org/en-US/docs/Mozilla/Bugzilla/Testopia)
