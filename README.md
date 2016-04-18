@@ -396,6 +396,7 @@
 * [Grafana](http://grafana.org/)
 * [Snap](https://github.com/intelsdi-x/snap)
 * [pome](https://github.com/rach/pome)
+* [netdata](http://netdata.firehol.org/)
 
 
 # Documentation
