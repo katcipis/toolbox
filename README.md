@@ -632,3 +632,8 @@
 
 * [luminati.io](https://luminati.io/)
 * [proxymesh](http://proxymesh.com/)
+
+
+# Window Managers
+
+* [stumpwm](https://stumpwm.github.io/index.html)
