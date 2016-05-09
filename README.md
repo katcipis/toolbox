@@ -52,7 +52,6 @@
 - [Automation](#automation)
 - [Diagrams](#diagrams)
   - [UML](#uml)
-- [Load balancers](#load-balancers)
 - [UI Prototyping](#ui-prototyping)
 - [Disk Recovery](#disk-recovery)
 - [Crawlers](#crawlers)
@@ -550,6 +549,7 @@
 * [h2o](https://h2o.examp1e.net/)
 * [traefik](https://github.com/EmileVauge/traefik)
 * [fabio](https://github.com/eBay/fabio)
+* [pound](http://www.apsis.ch/pound)
 
 
 # UI Prototyping
