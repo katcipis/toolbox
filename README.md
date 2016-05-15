@@ -614,7 +614,12 @@
 # Scrapping 
 
 
-## Libs
+## Natural Language Processing
+
+* [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet)
+
+
+## Parsing
 
 * [scrapely](https://github.com/scrapy/scrapely)
 * [parsley](https://github.com/fizx/parsley)
