@@ -162,11 +162,17 @@
 * [splint](http://splint.org/)
 
 
+### Formatting
+
+* [Uncrustify](http://uncrustify.sourceforge.net/)
+* [Artistic Style](http://astyle.sourceforge.net/)
+
+
 ## Python
 
 * [pyflakes](https://github.com/pyflakes/pyflakes/)
 * [pylint](http://www.pylint.org/)
-* [pep9](https://github.com/jcrocholl/pep8)
+* [pep8](https://github.com/jcrocholl/pep8)
 
 
 ## Golang
