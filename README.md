@@ -457,6 +457,7 @@
 * [ab](http://httpd.apache.org/docs/2.2/programs/ab.html)
 * [wrk](https://github.com/wg/wrk)
 * [boom](https://github.com/rakyll/boom)
+* [vegeta](https://github.com/tsenart/vegeta)
 * [Bees with machine guns](https://github.com/newsapps/beeswithmachineguns)
 * [goad](https://github.com/gophergala2016/goad)
 * [JMeter](http://jmeter.apache.org/)
