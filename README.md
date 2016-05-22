@@ -217,6 +217,7 @@
 * [Nethogs](http://nethogs.sourceforge.net/)
 * [iftop](http://www.ex-parrot.com/~pdw/iftop/)
 * [iptraf](http://iptraf.seul.org/)
+* [qperf](http://linux.die.net/man/1/qperf)
 * [ntop](http://www.ntop.org)
 
 
