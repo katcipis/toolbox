@@ -538,10 +538,16 @@
 # Diagrams
 
 * [Inkscape](http://inkscape.org/en/)
-* [Sequence Diagrams](https://www.websequencediagrams.com/)
 * [Dia](https://wiki.gnome.org/Apps/Dia/)
 * [Draw.io](https://www.draw.io/)
 * [ditaa](http://ditaa.sourceforge.net/)
+
+
+## Sequence
+
+* [MscGen](https://en.wikipedia.org/wiki/MscGen)
+* [MscLatex](http://satoss.uni.lu/software/mscpackage)
+* [Sequence Diagrams](https://www.websequencediagrams.com/)
 
 
 ## UML
