@@ -655,6 +655,7 @@
 
 * [luminati.io](https://luminati.io/)
 * [proxymesh](http://proxymesh.com/)
+* [shared proxies](http://www.sharedproxies.com/)
 
 
 # Window Managers
