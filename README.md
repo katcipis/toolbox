@@ -191,6 +191,7 @@
 
 * [perf-tools](https://github.com/brendangregg/perf-tools)
 * [Perf](https://perf.wiki.kernel.org/index.php/Main_Page)
+* [ftrace](https://www.kernel.org/doc/Documentation/trace/ftrace.txt)
 * [Iperf](https://github.com/esnet/iperf)
 * [DTrace](http://dtrace.org/blogs/)
 * [System tap](https://sourceware.org/systemtap/)
