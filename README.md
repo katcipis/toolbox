@@ -266,10 +266,15 @@
 * [Hydra](https://www.thc.org/thc-hydra/)
 
 
+## Scanners
+
+* [nmap](http://nmap.org/)
+* [masscan](https://github.com/robertdavidgraham/masscan)
+
+
 ## Diagnostic / Debug
 
 * [mtr](http://linux.about.com/library/cmd/blcmdl8_mtr.htm)
-* [nmap](http://nmap.org/)
 * [netstat](http://linux.die.net/man/8/netstat)
 * [tcpdump](http://www.tcpdump.org/)
 * [tshark](https://www.wireshark.org/docs/man-pages/tshark.html)
