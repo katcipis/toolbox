@@ -670,6 +670,11 @@
 * [shared proxies](http://www.sharedproxies.com/)
 
 
+# Email Verification
+
+* [Verify Email](http://verify-email.org/register/levels.html)
+
+
 # Window Managers
 
 * [stumpwm](https://stumpwm.github.io/index.html)
