@@ -670,6 +670,13 @@
 * [shared proxies](http://www.sharedproxies.com/)
 
 
+# Captcha Breaking
+
+* [2 captcha](https://2captcha.com/)
+* [Death by captcha](http://www.deathbycaptcha.com/)
+* [Image Typerz](http://www.imagetyperz.com/)
+
+
 # Email Verification
 
 * [Verify Email](http://verify-email.org/register/levels.html)
