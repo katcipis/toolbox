@@ -463,6 +463,7 @@
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
 * [ab](http://httpd.apache.org/docs/2.2/programs/ab.html)
 * [wrk](https://github.com/wg/wrk)
+* [go-wrk](https://github.com/adjust/go-wrk)
 * [boom](https://github.com/rakyll/boom)
 * [vegeta](https://github.com/tsenart/vegeta)
 * [Bees with machine guns](https://github.com/newsapps/beeswithmachineguns)
