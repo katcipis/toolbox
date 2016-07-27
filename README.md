@@ -684,6 +684,12 @@
 * [Verify Email](http://verify-email.org/register/levels.html)
 
 
+# Distributed System Validation
+
+* [TLA+](http://research.microsoft.com/en-us/um/people/lamport/tla/tla.html)
+* [Runway](https://github.com/salesforce/runway-browser)
+
+
 # Window Managers
 
 * [stumpwm](https://stumpwm.github.io/index.html)
