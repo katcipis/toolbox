@@ -186,6 +186,7 @@
 * [go-simple](https://github.com/dominikh/go-simple)
 * [go-staticcheck](https://github.com/dominikh/go-staticcheck)
 * [gometalinter](https://github.com/alecthomas/gometalinter)
+* [dupl](https://github.com/mibk/dupl)
 
 
 # Profiling
