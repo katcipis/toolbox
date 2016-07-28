@@ -185,6 +185,7 @@
 * [go-unused](https://github.com/dominikh/go-unused)
 * [go-simple](https://github.com/dominikh/go-simple)
 * [go-staticcheck](https://github.com/dominikh/go-staticcheck)
+* [gometalinter](https://github.com/alecthomas/gometalinter)
 
 
 # Profiling
