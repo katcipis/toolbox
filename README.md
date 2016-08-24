@@ -679,6 +679,7 @@
 * [2 captcha](https://2captcha.com/)
 * [Death by captcha](http://www.deathbycaptcha.com/)
 * [Image Typerz](http://www.imagetyperz.com/)
+* [Pixodrom](http://pixodrom.com/)
 
 
 # Email Verification
