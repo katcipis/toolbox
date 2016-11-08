@@ -471,6 +471,7 @@
 * [vegeta](https://github.com/tsenart/vegeta)
 * [Bees with machine guns](https://github.com/newsapps/beeswithmachineguns)
 * [goad](https://github.com/gophergala2016/goad)
+* [hargo](https://github.com/mrichman/hargo)
 * [JMeter](http://jmeter.apache.org/)
 
 
