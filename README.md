@@ -691,6 +691,7 @@
 
 # Distributed System Validation
 
+* [jepsen](https://github.com/jepsen-io/jepsen)
 * [TLA+](http://research.microsoft.com/en-us/um/people/lamport/tla/tla.html)
 * [Runway](https://github.com/salesforce/runway-browser)
 
