@@ -126,10 +126,11 @@
 * [Heapy](http://guppy-pe.sourceforge.net/)
 
 
-# CI /CD
+# Continuous Delivery
 
 ## On premisses
 
+* [Spinnaker](https://github.com/spinnaker/spinnaker)
 * [Jenkins](http://jenkins-ci.org/)
 * [Go](http://www.go.cd/)
 * [Gitlab CI](https://about.gitlab.com/gitlab-ci/)
@@ -164,12 +165,6 @@
 * [SonarQube C++](https://github.com/wenns/sonar-cxx)
 * [cppcheck](http://cppcheck.sourceforge.net)
 * [splint](http://splint.org/)
-
-
-### Formatting
-
-* [Uncrustify](http://uncrustify.sourceforge.net/)
-* [Artistic Style](http://astyle.sourceforge.net/)
 
 
 ## Python
@@ -347,11 +342,6 @@
 * [FluentD](http://www.fluentd.org/)
 
 
-## Structure
-
-* [Logrus](https://github.com/Sirupsen/logrus)
-
-
 ## Analytics
 
 * [Sentry](https://www.getsentry.com/welcome/)
@@ -370,11 +360,6 @@
 * [Celery](http://www.celeryproject.org/)
 * [Siberite](https://github.com/bogdanovich/siberite)
 * [nchan](https://github.com/slact/nchan)
-
-
-# Service Discovery
-
-* [Consul.io](https://consul.io/)
 
 
 # Project Mangement
@@ -646,12 +631,12 @@
 * [PDF Liberation](https://pdfliberation.wordpress.com/)
 
 
-# Scrapping 
-
-
-## Natural Language Processing
+# Natural Language Processing
 
 * [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet)
+
+
+# Scrapping 
 
 
 ## Parsing
