@@ -69,6 +69,7 @@
 ## Chaos
 
 * [pumba](https://github.com/gaia-adm/pumba)
+* [kube-monkey](https://github.com/asobti/kube-monkey)
 
 
 ## Networking
