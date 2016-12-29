@@ -660,6 +660,7 @@
 * [luminati.io](https://luminati.io/)
 * [proxymesh](http://proxymesh.com/)
 * [shared proxies](http://www.sharedproxies.com/)
+* [ezproxies](https://www.ezproxies.com/)
 
 
 # Captcha Breaking
