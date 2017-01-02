@@ -657,10 +657,30 @@
 
 # Proxy Providers
 
+* [microleaves](https://microleaves.com)
+* [proxyvoxy](https://proxyvoxy.com/)
+
+
+### Dedicated/Shared proxies
+
+
+## User/Pass Authentication
+
+* [storm proxies](http://stormproxies.com/)
+* [buyproxies](https://buyproxies.org/)
+
+
+## IP Authentication
+
+* [ezproxies](https://www.ezproxies.com/)
+* [shared proxies](http://www.sharedproxies.com/)
+* [instantproxies](https://instantproxies.com/)
+
+
+## Backconnect
+
 * [luminati.io](https://luminati.io/)
 * [proxymesh](http://proxymesh.com/)
-* [shared proxies](http://www.sharedproxies.com/)
-* [ezproxies](https://www.ezproxies.com/)
 
 
 # Captcha Breaking
