@@ -657,20 +657,19 @@
 
 # Proxy Providers
 
-* [microleaves](https://microleaves.com)
-* [proxyvoxy](https://proxyvoxy.com/)
+
+## Dedicated/Shared proxies
 
 
-### Dedicated/Shared proxies
-
-
-## User/Pass Authentication
+### User/Pass Authentication
 
 * [storm proxies](http://stormproxies.com/)
 * [buyproxies](https://buyproxies.org/)
+* [proxyvoxy](https://proxyvoxy.com/)
+* [microleaves](https://microleaves.com)
 
 
-## IP Authentication
+### IP Authentication
 
 * [ezproxies](https://www.ezproxies.com/)
 * [shared proxies](http://www.sharedproxies.com/)
