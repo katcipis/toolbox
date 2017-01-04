@@ -358,6 +358,7 @@
 * [0MQ](http://zeromq.org/)
 * [Iris](http://iris.karalabe.com/)
 * [NSQ](https://github.com/bitly/nsq)
+* [cherami](https://github.com/uber/cherami-server)
 * [Celery](http://www.celeryproject.org/)
 * [Siberite](https://github.com/bogdanovich/siberite)
 * [nchan](https://github.com/slact/nchan)
