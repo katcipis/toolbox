@@ -569,6 +569,11 @@
 * [pound](http://www.apsis.ch/pound)
 
 
+# HTTP traffic analysis
+
+* [mitm](https://github.com/mitmproxy/mitmproxy)
+
+
 # UI Prototyping
 
 * [Pencil](http://pencil.evolus.vn/Default.html)
