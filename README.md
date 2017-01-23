@@ -351,9 +351,10 @@
 * [Inviso](https://github.com/Netflix/inviso)
 
 
-# Message Queues / Pub Sub
+# Message Brokers
 
 * [Kafka](http://kafka.apache.org/)
+* [jocko](https://github.com/travisjeffery/jocko)
 * [RabbitMQ](http://www.rabbitmq.com/)
 * [0MQ](http://zeromq.org/)
 * [Iris](http://iris.karalabe.com/)
