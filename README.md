@@ -573,6 +573,7 @@
 # HTTP traffic analysis
 
 * [mitm](https://github.com/mitmproxy/mitmproxy)
+* [wuzz](https://github.com/asciimoo/wuzz)
 
 
 # UI Prototyping
