@@ -740,3 +740,4 @@
 # Window Managers
 
 * [stumpwm](https://stumpwm.github.io/index.html)
+* [taowm](https://github.com/nigeltao/taowm)
