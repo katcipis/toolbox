@@ -344,7 +344,7 @@
 
 ## Data visualization
 
-* [caravel](https://github.com/airbnb/caravel)
+* [superset](https://github.com/airbnb/superset)
 
 
 # Logging
