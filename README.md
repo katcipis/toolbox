@@ -324,7 +324,8 @@
 
 ## SQL
 
-* [Citus](https://github.com/citusdata/citus)
+* [citus](https://github.com/citusdata/citus)
+* [timescaledb](https://github.com/timescale/timescaledb)
 
 
 ## Time Series
