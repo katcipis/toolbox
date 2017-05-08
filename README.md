@@ -689,6 +689,7 @@
 * [scrapinghub](http://scrapinghub.com/)
 * [cloud scrape](http://cloudscrape.com/)
 * [diffbot](https://www.diffbot.com/)
+* [dexi.io](https://dexi.io/)
 
 
 # Proxy Providers
