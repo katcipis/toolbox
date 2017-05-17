@@ -476,6 +476,7 @@
 
 # Performance/Load tests
 
+* [k6](https://k6.io/)
 * [Gatling](http://gatling-tool.org/)
 * [Tsung](http://tsung.erlang-projects.org/)
 * [curl-loader](http://curl-loader.sourceforge.net/)
