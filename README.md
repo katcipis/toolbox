@@ -476,6 +476,7 @@
 
 # Performance/Load tests
 
+* [slapper](https://github.com/ikruglov/slapper)
 * [k6](https://k6.io/)
 * [Gatling](http://gatling-tool.org/)
 * [Tsung](http://tsung.erlang-projects.org/)
