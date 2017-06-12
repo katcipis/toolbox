@@ -250,9 +250,10 @@
 
 ## Disk
 
+* [fio](http://linux.die.net/man/1/fio)
 * [ioping](https://code.google.com/p/ioping/)
 * [iotop](http://linux.die.net/man/1/iotop)
-* [fio](http://linux.die.net/man/1/fio)
+* [hdparm](http://man7.org/linux/man-pages/man8/hdparm.8.html)
 
 
 ## Golang
