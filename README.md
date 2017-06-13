@@ -348,9 +348,12 @@
 
 * [superset](https://github.com/airbnb/superset)
 
+## Benchmarks
+
+* [hammerdb](http://www.hammerdb.com/)
+
 
 # Logging
-
 
 * [log.io](http://logio.org/)
 * [Bosun](http://bosun.org/)
