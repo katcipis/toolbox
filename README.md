@@ -228,6 +228,11 @@
 * [dstat](http://linux.die.net/man/1/dstat)
 
 
+## Distributed System Tracing
+
+* [zipkin](http://zipkin.io/)
+
+
 ## Memory
 
 * [vmstat](http://linux.die.net/man/8/vmstat)
