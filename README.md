@@ -422,6 +422,8 @@
 
 # Monitoring
 
+* [SysDig](http://www.sysdig.org/)
+* [sysdig-inspect](https://github.com/draios/sysdig-inspect/)
 * [Prometheus](http://prometheus.io/)
 * [Zabbix](http://www.zabbix.com/)
 * [Monit](https://mmonit.com/monit/)
@@ -430,7 +432,6 @@
 * [Ganglia](http://ganglia.sourceforge.net/)
 * [Monitorix](http://www.monitorix.org/)
 * [DaemonTools](http://cr.yp.to/daemontools.html)
-* [SysDig](http://www.sysdig.org/)
 * [MIG](http://mig.mozilla.org/)
 * [Performance Co Pilot](http://pcp.io/)
 * [CachetHQ](https://cachethq.io/)
