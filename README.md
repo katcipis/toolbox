@@ -509,14 +509,12 @@
 
 * [Stream-Framework](https://github.com/tschellenbach/Stream-Framework)
 
-
-## Acceptance/Unit tests
+## Browser Automation
 
 * [Selenium](http://www.seleniumhq.org/)
 * [PhantomJS](http://phantomjs.org/)
-* [Pioneer](http://pioneerjs.com/)
-* [Protractor](https://github.com/angular/protractor)
-
+* [chromedp](https://github.com/chromedp/chromedp)
+* [marionette](https://firefox-source-docs.mozilla.org/testing/marionette/marionette/index.html)
 
 ## Security
 
